@@ -1,0 +1,212 @@
+[
+  {
+    "infinitive": "decir",
+    "conjugations": {
+      "present": {
+        "yo": "digo",
+        "tu": "dices",
+        "usted/el/ella": "dice",
+        "nosotros": "decimos",
+        "vosotros": "decís",
+        "ustedes/ellos/ellas": "dicen"
+      },
+      "preterite": {
+        "yo": "dije",
+        "tu": "dijiste",
+        "usted/el/ella": "dijo",
+        "nosotros": "dijimos",
+        "vosotros": "dijisteis",
+        "ustedes/ellos/ellas": "dijeron"
+      }
+    }
+  },
+  {
+    "infinitive": "estar",
+    "conjugations": {
+      "present": {
+        "yo": "estoy",
+        "tu": "estás",
+        "usted/el/ella": "está",
+        "nosotros": "estamos",
+        "vosotros": "estáis",
+        "ustedes/ellos/ellas": "están"
+      },
+      "preterite": {
+        "yo": "estuve",
+        "tu": "estuviste",
+        "usted/el/ella": "estuvo",
+        "nosotros": "estuvimos",
+        "vosotros": "estuvisteis",
+        "ustedes/ellos/ellas": "estuvieron"
+      }
+    }
+  },
+  {
+    "infinitive": "haber",
+    "conjugations": {
+      "present": {
+        "yo": "he",
+        "tu": "has",
+        "usted/el/ella": "ha",
+        "nosotros": "hemos",
+        "vosotros": "habéis",
+        "ustedes/ellos/ellas": "han"
+      },
+      "preterite": {
+        "yo": "hube",
+        "tu": "hubiste",
+        "usted/el/ella": "hubo",
+        "nosotros": "hubimos",
+        "vosotros": "hubisteis",
+        "ustedes/ellos/ellas": "hubieron"
+      }
+    }
+  }, 
+  {
+    "infinitive": "hacer",
+    "conjugations": {
+      "present": {
+        "yo": "hago",
+        "tu": "haces",
+        "usted/el/ella": "hace",
+        "nosotros": "hacemos",
+        "vosotros": "hacéis",
+        "ustedes/ellos/ellas": "hacen"
+      },
+      "preterite": {
+        "yo": "hice",
+        "tu": "hiciste",
+        "usted/el/ella": "hizo",
+        "nosotros": "hicimos",
+        "vosotros": "hicisteis",
+        "ustedes/ellos/ellas": "hicieron"
+      }
+    }
+  },
+  {
+    "infinitive": "ir",
+    "conjugations": {
+      "present": {
+        "yo": "voy",
+        "tu": "vas",
+        "usted/el/ella": "va",
+        "nosotros": "vamos",
+        "vosotros": "vais",
+        "ustedes/ellos/ellas": "van"
+      },
+      "preterite": {
+        "yo": "fui",
+        "tu": "fuiste",
+        "usted/el/ella": "fue",
+        "nosotros": "fuimos",
+        "vosotros": "fuisteis",
+        "ustedes/ellos/ellas": "fueron"
+      }
+    }
+  },
+  {
+    "infinitive": "poder",
+    "conjugations": {
+      "present": {
+        "yo": "puedo",
+        "tu": "puedes",
+        "usted/el/ella": "puede",
+        "nosotros": "podemos",
+        "vosotros": "podéis",
+        "ustedes/ellos/ellas": "pueden"
+      },
+      "preterite": {
+        "yo": "pude",
+        "tu": "pudiste",
+        "usted/el/ella": "pudo",
+        "nosotros": "pudimos",
+        "vosotros": "pudisteis",
+        "ustedes/ellos/ellas": "pudieron"
+      }
+    }
+  },
+  {
+    "infinitive": "poner",
+    "conjugations": {
+      "present": {
+        "yo": "pongo",
+        "tu": "pones",
+        "usted/el/ella": "pone",
+        "nosotros": "ponemos",
+        "vosotros": "ponéis",
+        "ustedes/ellos/ellas": "ponen"
+      },
+      "preterite": {
+        "yo": "puse",
+        "tu": "pusiste",
+        "usted/el/ella": "puso",
+        "nosotros": "pusimos",
+        "vosotros": "pusisteis",
+        "ustedes/ellos/ellas": "pusieron"
+      }
+    }
+  },
+  {
+    "infinitive": "ser",
+    "conjugations": {
+      "present": {
+        "yo": "soy",
+        "tu": "eres",
+        "usted/el/ella": "es",
+        "nosotros": "somos",
+        "vosotros": "sois",
+        "ustedes/ellos/ellas": "son"
+      },
+      "preterite": {
+        "yo": "fui",
+        "tu": "fuiste",
+        "usted/el/ella": "fue",
+        "nosotros": "fuimos",
+        "vosotros": "fuisteis",
+        "ustedes/ellos/ellas": "fueron"
+      }
+    }
+  },
+  {
+    "infinitive": "tener",
+    "conjugations": {
+      "present": {
+        "yo": "tengo",
+        "tu": "tienes",
+        "usted/el/ella": "tiene",
+        "nosotros": "tenemos",
+        "vosotros": "tenéis",
+        "ustedes/ellos/ellas": "tienen"
+      },
+      "preterite": {
+        "yo": "tuve",
+        "tu": "tuviste",
+        "usted/el/ella": "tuvo",
+        "nosotros": "tuvimos",
+        "vosotros": "tuvisteis",
+        "ustedes/ellos/ellas": "tuvieron"
+      }
+    }
+  },
+  {
+    "infinitive": "venir",
+    "conjugations": {
+      "present": {
+        "yo": "vengo",
+        "tu": "vienes",
+        "usted/el/ella": "viene",
+        "nosotros": "venimos",
+        "vosotros": "venís",
+        "ustedes/ellos/ellas": "vienen"
+      },
+      "preterite": {
+        "yo": "vine",
+        "tu": "viniste",
+        "usted/el/ella": "vino",
+        "nosotros": "vinimos",
+        "vosotros": "vinisteis",
+        "ustedes/ellos/ellas": "vinieron"
+      }
+    }
+  }
+]

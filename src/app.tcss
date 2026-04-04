@@ -1,0 +1,12 @@
+Vertical {
+    content-align: center middle;
+    background: blue;
+    color: white;
+}
+Horizontal {
+    content-align: center middle;
+}
+
+#verb-form-label{
+    content-align: center middle;
+}

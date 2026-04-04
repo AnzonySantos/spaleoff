@@ -1,12 +1,54 @@
+/* Variables */
+$sand:      #e8dcad
+$blurple:   #797dde
+
 Vertical {
     content-align: center middle;
-    background: blue;
-    color: white;
+    border: heavy white;
+    background: $sand;
+    color: $blurple
 }
+
 Horizontal {
     content-align: center middle;
+    border: heavy white;
 }
 
 #verb-form-label{
     content-align: center middle;
 }
+
+
+/* Color Pallete */
+/* VINT-HS PALLLETE - by michdev (Found on LOSPEC) */
+/* For refrence, however may make some variables for ease
+/*  black           #141414 
+    grey_1          #202125
+    grey_2          #2c2e2d
+    grey_3          #464847
+    grey_4          #545454
+    grey_5          #827d7d
+    light_brown     #a49894
+    tan             #d0c6b0
+    off_white       #e9f6e1
+    ocean_blue      #4582c7
+    dark_blue       #3c53ce
+    deep_pink       #d53e84
+    lipstick_red    #be173b
+    red_orange      #e44326
+    orange          #f8812f
+    yellow          #ffd340
+    light_green     #a7c96b
+    green           #57b069
+    sky_blue        #82c7eb
+    blurple         #797dde
+    pink            #e383c4
+    strawberry      #f34f6f
+    salmon          #f07a5e
+    peach           #f6a280
+    sand            #e8dcad
+    nature_green    #b6da8b
+    mint_green      #79d8a9
+*/
+
+

@@ -81,6 +81,7 @@ class MainScreen(Screen):  # Screen for the main game loop
 
             self.query_one("#verb-label").update(self.main_verb["infinitive"])
             self.query_one("#verb-form-label").update(self.main_form)
+            print("Presed Enter")
 
     def on_mount(self) -> None:
         global all_verbs
@@ -103,6 +104,7 @@ class MainScreen(Screen):  # Screen for the main game loop
 
 class MyApp(App):
     CSS_PATH = "app.tcss"
+    TITLE = "Spaleoff"
     SCREENS = {"tense_screen": TenseScreen, "verb_screen": VerbSelectorScreen, "main_screen": MainScreen}
     BINDINGS = [("t", "push_screen('tense_screen')", "TenseScreen"),
                 ("v", "push_screen('verb_screen')", "VerbSelectorScreen"),

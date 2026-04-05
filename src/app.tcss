@@ -106,14 +106,23 @@ Horizontal {
 
 #conjugation-input{
     background: $blurple;
+    border: tall white;
 }
 
 .column{
-    align: center middle;
-    content-align: center middle;
     border: heavy white;
-    background: $sand;
     color: $blurple;
+
+}
+
+#column_1{
+    align: right middle;
+}
+#column_2{
+    align: center middle;
+}
+#column_3{
+    align: left middle;
 }
 
 /******** Color Pallete *******/

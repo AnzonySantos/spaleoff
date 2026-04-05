@@ -191,6 +191,8 @@ class MainScreen(Screen):  # Screen for the main game loop
         self.query_one("#counter").update(self.main_string)
         # self.query_one("#temp-id").update(self.main_temp_string)
         print("Presed Enter")
+        
+        event.input.clear()
 
     def on_mount(self) -> None:
         self.screen.styles.background = "#e8dcad"

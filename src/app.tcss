@@ -1,25 +1,122 @@
-/* Variables */
+/******* Variables *******/
 $sand:      #e8dcad
 $blurple:   #797dde
+$black:     #141414
+$white:     #e9f6e1
 
-Vertical {
-    content-align: center middle;
-    border: heavy white;
-    background: $sand;
-    color: $blurple
+/******* App Globals *******/ 
+Header{
+    background: $blurple
 }
 
+/* Make sure to delete and apply only to the accent color box*/
 Horizontal {
     content-align: center middle;
     border: heavy white;
 }
 
-#verb-form-label{
+/******* Tense Selector *******/
+.tense-heading{
+    border: heavy $black;
+    height: 4;
+    #tense-title{
+        color: $black
+    }
+    #tense-subtitle{
+        color: $black
+    }
+}
+.tense-card{
+    height: 3;
+    border: heavy white;
+    color: $blurple;
+    align: left middle;
+
+    Button.fake-label{
+        content-align: right middle;
+        padding: 0 4;
+
+        border: none;
+        background: transparent;
+
+        color: $blurple;
+    }
+    Button.fake-label:hover{
+        text-style: underline;
+    }
+    Button.fake-label:focus{
+        background: transparent;
+        text-style: bold;
+    }
+    Button.fake-label.-active{
+        background: transparent;
+    }
+}
+
+/******* Verb Selector Screen *******/
+#verb-heading{
+    color: $black;
+
+}
+
+.verb-selector-card{
+    height: 3;
+    color: $blurple;
+    border: heavy white;
+
+    Button.fake-label{
+        content-align: left middle;
+        padding: 0 4;
+
+        border: none;
+        background: transparent;
+
+        color: $blurple;
+    }
+    Button.fake-label:hover{
+        text-style: underline;
+    }
+    Button.fake-label:focus{
+        background: transparent;
+        text-style: bold;
+    }
+    Button.fake-label.-active{
+        background: transparent;
+    }
+}
+
+/******* Game Screen *******/
+#main-content{
     content-align: center middle;
 }
 
+#accent-box{
+    height: 3;
+    align: center middle;
 
-/* Color Pallete */
+    Button.accent-letters{
+        width: 3;
+        min-width: 0;
+        border: none;
+        background: $blurple;
+        color: white;
+        height: 1;
+    }
+}
+
+#conjugation-input{
+    background: $blurple;
+}
+
+.column{
+    align: center middle;
+    content-align: center middle;
+    border: heavy white;
+    background: $sand;
+    color: $blurple;
+}
+
+/******** Color Pallete *******/
 /* VINT-HS PALLLETE - by michdev (Found on LOSPEC) */
 /* For refrence, however may make some variables for ease
 /*  black           #141414 

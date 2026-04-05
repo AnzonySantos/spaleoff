@@ -5,7 +5,7 @@ TUI for application
 """
 from textual.app import App, ComposeResult
 from textual.screen import Screen
-from textual.widgets import Input, Static, Label, Header
+from textual.widgets import Input, Static, Label, Header, Button
 from textual.containers import Vertical, Horizontal, Grid
 from textual import events
 from textual.reactive import reactive
@@ -23,20 +23,64 @@ current_answer: str = ""
 
 class TenseScreen(Screen):
     def compose(self) -> ComposeResult:
-        yield Static("Spaleoff")
-        yield Label("Present")
-        yield Label("Preterite")
-        # Remeber to add the other tenses when complete
+        yield Header()
+        with Vertical(classes="tense-heading"):
+            yield Label("Spanish Verb Conjugation Trainer", id="tense-title")
+            # yield Label("With the Conjugation Trainer you can improve your knowledge of the most frequent forms of the most important Spanish verbs.")
+            yield Label("Select verb tense:", id="tense-subtitle")
+
+        with Vertical(classes="tense-card"):
+            yield Button("Present Tense", classes="fake-label")
+            # yield Label("Él habla conmigo.")
+            # yield Label("(He talks with me.")
+        with Vertical(classes="tense-card"):
+            yield Button("Preterite", classes="fake-label")
+            # yield Label("De repente él habló de otra cosa.")
+            # yield Label("(Suddenly he spoke of something else.)")
+        with Vertical(classes="tense-card"):
+            yield Button("Imperfect", classes="fake-label")
+            # yield Label("Ella siempre hablaba del imperfecto.")
+            # yield Label("(She always talked of the imperfect.)")
+        with Vertical(classes="tense-card"):
+            yield Button("Future Tense", classes="fake-label")
+            # yield Label("Manana ella hablará de su futuro.")  # Dont forget to add the tilda to the n on Manana
+            # yield Label("(Tommorow she will talk of her future.)")
+        with Vertical(classes="tense-card"):
+            yield Button("Present Subjunctive", classes="fake-label")
+            # yield Label("Es importante que él no hable con nadie sobre eso.")
+            # yield Label("(It is important that he doesn't talk with anybody about it.)")
+        with Vertical(classes="tense-card"):
+            yield Button("Imperfect Subjunctive", classes="fake-label")
+            # yield Label("Si él hablara menos, ella hablaría con él.")
+            # yield Label("(If he talked less, she would talke with him.)")
+        with Vertical(classes="tense-card"):
+            yield Button("Conditional", classes="fake-label")
+            # yield Label("Si él hablara menos, ella hablaría con él.")
+            # yield Label("(If he talked less, she would talke with him.)")
+
+    def on_mount(self) -> None:
+        self.screen.styles.background = "#e8dcad"
 
 
 class VerbSelectorScreen(Screen):
     def compose(self) -> ComposeResult:
-        yield Static("Spaleoff")
-        yield Label("Basic")
-        yield Label("Regular")
-        yield Label("Irregular")
-        yield Label("Topic: Learning")
-        yield Label("Topic: Traveling")
+        yield Header()
+        yield Label("Select verbs:", id="verb-heading")
+
+        with Vertical(id="segment_1"):
+            with Vertical(classes="verb-selector-card"):
+                yield Button("Basic", classes="fake-label")
+            with Vertical(classes="verb-selector-card"):
+                yield Button("Regular", classes="fake-label")
+            with Vertical(classes="verb-selector-card"):
+                yield Button("Irregular", classes="fake-label")
+            with Vertical(classes="verb-selector-card"):
+                yield Button("Topic: Learning", classes="fake-label")
+            with Vertical(classes="verb-selector-card"):
+                yield Button("Topic: Traveling", classes="fake-label")
+
+    def on_mount(self) -> None:
+        self.screen.styles.background = "#e8dcad"
 
 
 class MainScreen(Screen):  # Screen for the main game loop
@@ -46,21 +90,21 @@ class MainScreen(Screen):  # Screen for the main game loop
 
     def compose(self) -> ComposeResult:
         yield Header("Spaleoff")
-        with Horizontal():
-            with Vertical():
+        with Horizontal(id="main-content"):
+            with Vertical(classes="column"):
                 yield Label(self.main_form, id="verb-form-label")
-            with Vertical():
+            with Vertical(classes="column"):
                 yield Label(self.main_verb["infinitive"], id="verb-label")
                 yield Input("", id="conjugation-input")
                 yield Label("Correct: ")
-            with Vertical():
+            with Vertical(classes="column"):
                 yield Label("Translation")
-                with Horizontal():
-                    yield Label("á")
-                    yield Label("é")
-                    yield Label("í")
-                    yield Label("ó")
-                    yield Label("ú")
+                with Horizontal(id="accent-box"):
+                    yield Button("á", classes="accent-letters")
+                    yield Button("é", classes="accent-letters")
+                    yield Button("í", classes="accent-letters")
+                    yield Button("ó", classes="accent-letters")
+                    yield Button("ú", classes="accent-letters")
                 yield Label("[0/0]")
 
     def on_key(self, event: events.Key) -> None:
@@ -84,6 +128,8 @@ class MainScreen(Screen):  # Screen for the main game loop
             print("Presed Enter")
 
     def on_mount(self) -> None:
+        self.screen.styles.background = "#e8dcad"
+
         global all_verbs
         global current_tense
 
@@ -111,7 +157,7 @@ class MyApp(App):
                 ("m", "push_screen('main_screen')", "MainScreen")]
 
     def on_mount(self) -> None:
-        self.push_screen(MainScreen())
+        self.push_screen(TenseScreen())
 
 
 def send_to_validate(user_input: str) -> bool:

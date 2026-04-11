@@ -1,5 +1,887 @@
 [
   {
+    "infinitive": "abrir",
+    "conjugations": {
+      "present": {
+        "yo": "abro",
+        "tu": "abres",
+        "usted/el/ella": "abre",
+        "nosotros": "abrimos",
+        "vosotros": "abrís",
+        "ustedes/ellos/ellas": "abren"
+      },
+      "preterite": {
+        "yo": "abrí",
+        "tu": "abriste",
+        "usted/el/ella": "abrió",
+        "nosotros": "abrimos",
+        "vosotros": "abristeis",
+        "ustedes/ellos/ellas": "abrieron"
+      }
+    }
+  },
+  {
+    "infinitive": "aprender",
+    "conjugations": {
+      "present": {
+        "yo": "aprendo",
+        "tu": "aprendes",
+        "usted/el/ella": "aprende",
+        "nosotros": "aprendemos",
+        "vosotros": "aprendéis",
+        "ustedes/ellos/ellas": "aprenden"
+      },
+      "preterite": {
+        "yo": "aprendí",
+        "tu": "aprendiste",
+        "usted/el/ella": "aprendió",
+        "nosotros": "aprendemos",
+        "vosotros": "aprendisteis",
+        "ustedes/ellos/ellas": "aprendieron"
+      }
+    }
+  },
+  {
+    "infinitive": "bailar",
+    "conjugations": {
+      "present": {
+        "yo": "bailo",
+        "tu": "bailas",
+        "usted/el/ella": "baila",
+        "nosotros": "bailamos",
+        "vosotros": "bailáis",
+        "ustedes/ellos/ellas": "bailan"
+      },
+      "preterite": {
+        "yo": "bailé",
+        "tu": "bailaste",
+        "usted/el/ella": "bailó",
+        "nosotros": "bailamos",
+        "vosotros": "bailasteis",
+        "ustedes/ellos/ellas": "bailaron"
+      }
+    }
+  },
+  {
+    "infinitive": "buscar",
+    "conjugations": {
+      "present": {
+        "yo": "busco",
+        "tu": "buscas",
+        "usted/el/ella": "busca",
+        "nosotros": "buscamos",
+        "vosotros": "buscáis",
+        "ustedes/ellos/ellas": "buscan"
+      },
+      "preterite": {
+        "yo": "busqué",
+        "tu": "buscaste",
+        "usted/el/ella": "buscó",
+        "nosotros": "buscamos",
+        "vosotros": "buscasteis",
+        "ustedes/ellos/ellas": "buscaron"
+      }
+    }
+  },
+  {
+    "infinitive": "cambiar",
+    "conjugations": {
+      "present": {
+        "yo": "cambio",
+        "tu": "cambias",
+        "usted/el/ella": "cambia",
+        "nosotros": "cambiamos",
+        "vosotros": "cambiáis",
+        "ustedes/ellos/ellas": "cambian"
+      },
+      "preterite": {
+        "yo": "cambié",
+        "tu": "cambiaste",
+        "usted/el/ella": "cambió",
+        "nosotros": "cambiamos",
+        "vosotros": "cambiasteis",
+        "ustedes/ellos/ellas": "cambiaron"
+      }
+    }
+  },
+  {
+    "infinitive": "cantar",
+    "conjugations": {
+      "present": {
+        "yo": "canto",
+        "tu": "cantas",
+        "usted/el/ella": "canta",
+        "nosotros": "cantamos",
+        "vosotros": "cantáis",
+        "ustedes/ellos/ellas": "cantan"
+      },
+      "preterite": {
+        "yo": "canté",
+        "tu": "cantaste",
+        "usted/el/ella": "cantó",
+        "nosotros": "cantamos",
+        "vosotros": "cantasteis",
+        "ustedes/ellos/ellas": "cantaron"
+      }
+    }
+  },
+  {
+    "infinitive": "cerrar",
+    "conjugations": {
+      "present": {
+        "yo": "ciero",
+        "tu": "cierras",
+        "usted/el/ella": "cerramos",
+        "nosotros": "cerramos",
+        "vosotros": "cerráis",
+        "ustedes/ellos/ellas": "cierran"
+      },
+      "preterite": {
+        "yo": "cerré",
+        "tu": "cerraste",
+        "usted/el/ella": "cerró",
+        "nosotros": "cerramos",
+        "vosotros": "cerrasteis",
+        "ustedes/ellos/ellas": "cerraron"
+      }
+    }
+  },
+  {
+    "infinitive": "comenzar",
+    "conjugations": {
+      "present": {
+        "yo": "comienzo",
+        "tu": "comienzas",
+        "usted/el/ella": "comienza",
+        "nosotros": "comenzamos",
+        "vosotros": "comenzáis",
+        "ustedes/ellos/ellas": "comienzan"
+      },
+      "preterite": {
+        "yo": "comencé",
+        "tu": "comenzaste",
+        "usted/el/ella": "comenzó",
+        "nosotros": "comenzamos",
+        "vosotros": "comenzasteis",
+        "ustedes/ellos/ellas": "comenzaron"
+      }
+    }
+  },
+  {
+    "infinitive": "comer",
+    "conjugations": {
+      "present": {
+        "yo": "como",
+        "tu": "comes",
+        "usted/el/ella": "come",
+        "nosotros": "comemos",
+        "vosotros": "coméis",
+        "ustedes/ellos/ellas": "comen"
+      },
+      "preterite": {
+        "yo": "comí",
+        "tu": "comiste",
+        "usted/el/ella": "comió",
+        "nosotros": "comimos",
+        "vosotros": "comisteis",
+        "ustedes/ellos/ellas": "comieron"
+      }
+    }
+  },
+  {
+    "infinitive": "comprar",
+    "conjugations": {
+      "present": {
+        "yo": "compro",
+        "tu": "compras",
+        "usted/el/ella": "compra",
+        "nosotros": "compramos",
+        "vosotros": "compráis",
+        "ustedes/ellos/ellas": "compran"
+      },
+      "preterite": {
+        "yo": "compré",
+        "tu": "compraste",
+        "usted/el/ella": "compró",
+        "nosotros": "compramos",
+        "vosotros": "comprasteis",
+        "ustedes/ellos/ellas": "compraron"
+      }
+    }
+  },
+  {
+    "infinitive": "correr",
+    "conjugations": {
+      "present": {
+        "yo": "corro",
+        "tu": "corres",
+        "usted/el/ella": "corre",
+        "nosotros": "corremos",
+        "vosotros": "corréis",
+        "ustedes/ellos/ellas": "corren"
+      },
+      "preterite": {
+        "yo": "corrí",
+        "tu": "corriste",
+        "usted/el/ella": "corrió",
+        "nosotros": "corrimos",
+        "vosotros": "corristeis",
+        "ustedes/ellos/ellas": "corrieron"
+      }
+    }
+  },
+  {
+    "infinitive": "creer",
+    "conjugations": {
+      "present": {
+        "yo": "creo",
+        "tu": "crees",
+        "usted/el/ella": "cree",
+        "nosotros": "creemos",
+        "vosotros": "creéis",
+        "ustedes/ellos/ellas": "creen"
+      },
+      "preterite": {
+        "yo": "creí",
+        "tu": "creíste",
+        "usted/el/ella": "creyó",
+        "nosotros": "creímos",
+        "vosotros": "creísteis",
+        "ustedes/ellos/ellas": "creyeron"
+      }
+    }
+  },
+  {
+    "infinitive": "dar",
+    "conjugations": {
+      "present": {
+        "yo": "doy",
+        "tu": "das",
+        "usted/el/ella": "da",
+        "nosotros": "damos",
+        "vosotros": "dais",
+        "ustedes/ellos/ellas": "dan"
+      },
+      "preterite": {
+        "yo": "di",
+        "tu": "diste",
+        "usted/el/ella": "dio",
+        "nosotros": "dimos",
+        "vosotros": "disteis",
+        "ustedes/ellos/ellas": "dieron"
+      }
+    }
+  },
+  {
+    "infinitive": "dormir",
+    "conjugations": {
+      "present": {
+        "yo": "duermo",
+        "tu": "duermes",
+        "usted/el/ella": "duerme",
+        "nosotros": "dormimos",
+        "vosotros": "dormís",
+        "ustedes/ellos/ellas": "duermen"
+      },
+      "preterite": {
+        "yo": "dormí",
+        "tu": "dormiste",
+        "usted/el/ella": "durmió",
+        "nosotros": "dormimos",
+        "vosotros": "dormisteis",
+        "ustedes/ellos/ellas": "durmieron"
+      }
+    }
+  },
+  {
+    "infinitive": "encontrar",
+    "conjugations": {
+      "present": {
+        "yo": "encuentro",
+        "tu": "encuentras",
+        "usted/el/ella": "encuentra",
+        "nosotros": "encontramos",
+        "vosotros": "encontráis",
+        "ustedes/ellos/ellas": "encuentran"
+      },
+      "preterite": {
+        "yo": "encontré",
+        "tu": "encontraste",
+        "usted/el/ella": "encontró",
+        "nosotros": "encontramos",
+        "vosotros": "encontrasteis",
+        "ustedes/ellos/ellas": "encontraron"
+      }
+    }
+  },
+  {
+    "infinitive": "entender",
+    "conjugations": {
+      "present": {
+        "yo": "entiendo",
+        "tu": "entiendes",
+        "usted/el/ella": "entiende",
+        "nosotros": "entendemos",
+        "vosotros": "entendéis",
+        "ustedes/ellos/ellas": "entienden"
+      },
+      "preterite": {
+        "yo": "entendí",
+        "tu": "entendiste",
+        "usted/el/ella": "entendió",
+        "nosotros": "entendimos",
+        "vosotros": "entendisteis",
+        "ustedes/ellos/ellas": "entendieron"
+      }
+    }
+  },
+  {
+    "infinitive": "escribir",
+    "conjugations": {
+      "present": {
+        "yo": "escribo",
+        "tu": "escribes",
+        "usted/el/ella": "escribe",
+        "nosotros": "escribimos",
+        "vosotros": "escribís",
+        "ustedes/ellos/ellas": "escriben"
+      },
+      "preterite": {
+        "yo": "escribí",
+        "tu": "escribiste",
+        "usted/el/ella": "escribió",
+        "nosotros": "escribimos",
+        "vosotros": "escribisteis",
+        "ustedes/ellos/ellas": "escribieron"
+      }
+    }
+  },
+  {
+    "infinitive": "escuchar",
+    "conjugations": {
+      "present": {
+        "yo": "escucho",
+        "tu": "escuchas",
+        "usted/el/ella": "escucha",
+        "nosotros": "escuchamos",
+        "vosotros": "escucháis",
+        "ustedes/ellos/ellas": "escuchan"
+      },
+      "preterite": {
+        "yo": "escuché",
+        "tu": "escuchaste",
+        "usted/el/ella": "escuchó",
+        "nosotros": "escuchamos",
+        "vosotros": "escuchasteis",
+        "ustedes/ellos/ellas": "escucharon"
+      }
+    }
+  },
+  {
+    "infinitive": "estudiar",
+    "conjugations": {
+      "present": {
+        "yo": "estudio",
+        "tu": "estudias",
+        "usted/el/ella": "estudia",
+        "nosotros": "estudiamos",
+        "vosotros": "estudiáis",
+        "ustedes/ellos/ellas": "estudian"
+      },
+      "preterite": {
+        "yo": "estudié",
+        "tu": "estudiaste",
+        "usted/el/ella": "estudió",
+        "nosotros": "estudiamos",
+        "vosotros": "estudiasteis",
+        "ustedes/ellos/ellas": "estudiaron"
+      }
+    }
+  },
+  {
+    "infinitive": "explicar",
+    "conjugations": {
+      "present": {
+        "yo": "explico",
+        "tu": "explicas",
+        "usted/el/ella": "explica",
+        "nosotros": "explicamos",
+        "vosotros": "explicáis",
+        "ustedes/ellos/ellas": "explican"
+      },
+      "preterite": {
+        "yo": "expliqué",
+        "tu": "explicaste",
+        "usted/el/ella": "explicó",
+        "nosotros": "explicamos",
+        "vosotros": "explicasteis",
+        "ustedes/ellos/ellas": "explicaron"
+      }
+    }
+  },
+  {
+    "infinitive": "hablar",
+    "conjugations": {
+      "present": {
+        "yo": "hablo",
+        "tu": "hablas",
+        "usted/el/ella": "habla",
+        "nosotros": "hablamos",
+        "vosotros": "habláis",
+        "ustedes/ellos/ellas": "hablan"
+      },
+      "preterite": {
+        "yo": "hablé",
+        "tu": "hablaste",
+        "usted/el/ella": "habló",
+        "nosotros": "hablamos",
+        "vosotros": "hablasteis",
+        "ustedes/ellos/ellas": "hablaron"
+      }
+    }
+  },
+  {
+    "infinitive": "leer",
+    "conjugations": {
+      "present": {
+        "yo": "leo",
+        "tu": "lees",
+        "usted/el/ella": "lee",
+        "nosotros": "leemos",
+        "vosotros": "leéis",
+        "ustedes/ellos/ellas": "leen"
+      },
+      "preterite": {
+        "yo": "leí",
+        "tu": "leíste",
+        "usted/el/ella": "leyó",
+        "nosotros": "leímos",
+        "vosotros": "leísteis",
+        "ustedes/ellos/ellas": "leyeron"
+      }
+    }
+  },
+  {
+    "infinitive": "llevar",
+    "conjugations": {
+      "present": {
+        "yo": "llevo",
+        "tu": "llevas",
+        "usted/el/ella": "lleva",
+        "nosotros": "llevamos",
+        "vosotros": "lleváis",
+        "ustedes/ellos/ellas": "llevan"
+      },
+      "preterite": {
+        "yo": "llevé",
+        "tu": "llevaste",
+        "usted/el/ella": "llevó",
+        "nosotros": "llevamos",
+        "vosotros": "llevasteis",
+        "ustedes/ellos/ellas": "llevaron"
+      }
+    }
+  },
+  {
+    "infinitive": "necesitar",
+    "conjugations": {
+      "present": {
+        "yo": "necesito",
+        "tu": "necesitas",
+        "usted/el/ella": "necesita",
+        "nosotros": "necesitamos",
+        "vosotros": "necesitáis",
+        "ustedes/ellos/ellas": "necesitan"
+      },
+      "preterite": {
+        "yo": "necesité",
+        "tu": "necesitaste",
+        "usted/el/ella": "necesitó",
+        "nosotros": "necesitamos",
+        "vosotros": "necesitasteis",
+        "ustedes/ellos/ellas": "necesitaron"
+      }
+    }
+  },
+  {
+    "infinitive": "olvidar",
+    "conjugations": {
+      "present": {
+        "yo": "ovlido",
+        "tu": "ovlidas",
+        "usted/el/ella": "olvida",
+        "nosotros": "olvidamos",
+        "vosotros": "olvidáis",
+        "ustedes/ellos/ellas": "ovlidan"
+      },
+      "preterite": {
+        "yo": "olvidé",
+        "tu": "olvidaste",
+        "usted/el/ella": "olvidó",
+        "nosotros": "ovlidamos",
+        "vosotros": "olvidasteis",
+        "ustedes/ellos/ellas": "ovlidaron"
+      }
+    }
+  },
+  {
+    "infinitive": "pagar",
+    "conjugations": {
+      "present": {
+        "yo": "pago",
+        "tu": "pagas",
+        "usted/el/ella": "paga",
+        "nosotros": "pagamos",
+        "vosotros": "pagáis",
+        "ustedes/ellos/ellas": "pagan"
+      },
+      "preterite": {
+        "yo": "pagué",
+        "tu": "pagaste",
+        "usted/el/ella": "pagó",
+        "nosotros": "pagamos",
+        "vosotros": "pagasteis",
+        "ustedes/ellos/ellas": "pagaron"
+      }
+    }
+  },
+  {
+    "infinitive": "pensar",
+    "conjugations": {
+      "present": {
+        "yo": "pienso",
+        "tu": "piensas",
+        "usted/el/ella": "piensa",
+        "nosotros": "pensamos",
+        "vosotros": "pensáis",
+        "ustedes/ellos/ellas": "piensan"
+      },
+      "preterite": {
+        "yo": "pensé",
+        "tu": "pensaste",
+        "usted/el/ella": "pensó",
+        "nosotros": "pensamos",
+        "vosotros": "pensasteis",
+        "ustedes/ellos/ellas": "pensaron"
+      }
+    }
+  },
+  {
+    "infinitive": "perder",
+    "conjugations": {
+      "present": {
+        "yo": "pierdo",
+        "tu": "pierdes",
+        "usted/el/ella": "pierde",
+        "nosotros": "perdemos",
+        "vosotros": "perdéis",
+        "ustedes/ellos/ellas": "pierden"
+      },
+      "preterite": {
+        "yo": "perdí",
+        "tu": "perdiste",
+        "usted/el/ella": "perdió",
+        "nosotros": "perdimos",
+        "vosotros": "perdisteis",
+        "ustedes/ellos/ellas": "perdieron"
+      }
+    }
+  },
+  {
+    "infinitive": "preguntar",
+    "conjugations": {
+      "present": {
+        "yo": "pregunto",
+        "tu": "preguntas",
+        "usted/el/ella": "pregunta",
+        "nosotros": "preguntamos",
+        "vosotros": "preguntáis",
+        "ustedes/ellos/ellas": "preguntan"
+      },
+      "preterite": {
+        "yo": "pregunté",
+        "tu": "preguntaste",
+        "usted/el/ella": "preguntó",
+        "nosotros": "preguntamos",
+        "vosotros": "preguntasteis",
+        "ustedes/ellos/ellas": "preguntaron"
+      }
+    }
+  },
+  {
+    "infinitive": "querer",
+    "conjugations": {
+      "present": {
+        "yo": "quiero",
+        "tu": "quieres",
+        "usted/el/ella": "quiere",
+        "nosotros": "queremos",
+        "vosotros": "queréis",
+        "ustedes/ellos/ellas": "quieren"
+      },
+      "preterite": {
+        "yo": "quise",
+        "tu": "quisiste",
+        "usted/el/ella": "quiso",
+        "nosotros": "quisimos",
+        "vosotros": "quisisteis",
+        "ustedes/ellos/ellas": "quisieron"
+      }
+    }
+  },
+  {
+    "infinitive": "saber",
+    "conjugations": {
+      "present": {
+        "yo": "sé",
+        "tu": "sabes",
+        "usted/el/ella": "sabe",
+        "nosotros": "sabemos",
+        "vosotros": "sabéis",
+        "ustedes/ellos/ellas": "saben"
+      },
+      "preterite": {
+        "yo": "supe",
+        "tu": "supiste",
+        "usted/el/ella": "supo",
+        "nosotros": "supimos",
+        "vosotros": "supisteis",
+        "ustedes/ellos/ellas": "supieron"
+      }
+    }
+  },
+  {
+    "infinitive": "salir",
+    "conjugations": {
+      "present": {
+        "yo": "salgo",
+        "tu": "sales",
+        "usted/el/ella": "sale",
+        "nosotros": "salimos",
+        "vosotros": "salís",
+        "ustedes/ellos/ellas": "salen"
+      },
+      "preterite": {
+        "yo": "salí",
+        "tu": "saliste",
+        "usted/el/ella": "salió",
+        "nosotros": "salimos",
+        "vosotros": "salisteis",
+        "ustedes/ellos/ellas": "salieron"
+      }
+    }
+  },
+  {
+    "infinitive": "subir",
+    "conjugations": {
+      "present": {
+        "yo": "subo",
+        "tu": "subes",
+        "usted/el/ella": "sube",
+        "nosotros": "subimos",
+        "vosotros": "subís",
+        "ustedes/ellos/ellas": "suben"
+      },
+      "preterite": {
+        "yo": "subí",
+        "tu": "subiste",
+        "usted/el/ella": "subió",
+        "nosotros": "subimos",
+        "vosotros": "subisteis",
+        "ustedes/ellos/ellas": "subieron"
+      }
+    }
+  },
+  {
+    "infinitive": "terminar",
+    "conjugations": {
+      "present": {
+        "yo": "termino",
+        "tu": "terminas",
+        "usted/el/ella": "termina",
+        "nosotros": "terminamos",
+        "vosotros": "termináis",
+        "ustedes/ellos/ellas": "terminan"
+      },
+      "preterite": {
+        "yo": "terminé",
+        "tu": "terminaste",
+        "usted/el/ella": "terminó",
+        "nosotros": "terminamos",
+        "vosotros": "terminasteis",
+        "ustedes/ellos/ellas": "terminaron"
+      }
+    }
+  },
+  {
+    "infinitive": "tomar",
+    "conjugations": {
+      "present": {
+        "yo": "tomo",
+        "tu": "tomas",
+        "usted/el/ella": "toma",
+        "nosotros": "tomamos",
+        "vosotros": "tomáis",
+        "ustedes/ellos/ellas": "toman"
+      },
+      "preterite": {
+        "yo": "tomé",
+        "tu": "tomaste",
+        "usted/el/ella": "tomó",
+        "nosotros": "tomamos",
+        "vosotros": "tomasteis",
+        "ustedes/ellos/ellas": "tomaron"
+      }
+    }
+  },
+  {
+    "infinitive": "trabajar",
+    "conjugations": {
+      "present": {
+        "yo": "trabajo",
+        "tu": "trabajas",
+        "usted/el/ella": "trabaja",
+        "nosotros": "trabajamos",
+        "vosotros": "trabajáis",
+        "ustedes/ellos/ellas": "trabajan"
+      },
+      "preterite": {
+        "yo": "trabajé",
+        "tu": "trabajaste",
+        "usted/el/ella": "trabajo",
+        "nosotros": "trabajamos",
+        "vosotros": "trabajasteis",
+        "ustedes/ellos/ellas": "trabajaron"
+      }
+    }
+  },
+  {
+    "infinitive": "traducir",
+    "conjugations": {
+      "present": {
+        "yo": "traduzco",
+        "tu": "traduces",
+        "usted/el/ella": "traduce",
+        "nosotros": "traducimos",
+        "vosotros": "traducís",
+        "ustedes/ellos/ellas": "traducen"
+      },
+      "preterite": {
+        "yo": "traduje",
+        "tu": "tradujiste",
+        "usted/el/ella": "tradujo",
+        "nosotros": "tradujimos",
+        "vosotros": "tradujisteis",
+        "ustedes/ellos/ellas": "tradujeron"
+      }
+    }
+  },
+  {
+    "infinitive": "traer",
+    "conjugations": {
+      "present": {
+        "yo": "traigo",
+        "tu": "traes",
+        "usted/el/ella": "trae",
+        "nosotros": "traemos",
+        "vosotros": "traéis",
+        "ustedes/ellos/ellas": "traen"
+      },
+      "preterite": {
+        "yo": "traje",
+        "tu": "trajiste",
+        "usted/el/ella": "trajo",
+        "nosotros": "trajimos",
+        "vosotros": "trajisteis",
+        "ustedes/ellos/ellas": "trajeron"
+      }
+    }
+  },
+  {
+    "infinitive": "vender",
+    "conjugations": {
+      "present": {
+        "yo": "vendo",
+        "tu": "vendes",
+        "usted/el/ella": "vende",
+        "nosotros": "vendemos",
+        "vosotros": "vendéis",
+        "ustedes/ellos/ellas": "venden"
+      },
+      "preterite": {
+        "yo": "vendí",
+        "tu": "vendiste",
+        "usted/el/ella": "vendió",
+        "nosotros": "vendimos",
+        "vosotros": "vendisteis",
+        "ustedes/ellos/ellas": "vendieron"
+      }
+    }
+  },
+  {
+    "infinitive": "ver",
+    "conjugations": {
+      "present": {
+        "yo": "veo",
+        "tu": "ves",
+        "usted/el/ella": "ve",
+        "nosotros": "vemos",
+        "vosotros": "veis",
+        "ustedes/ellos/ellas": "ven"
+      },
+      "preterite": {
+        "yo": "vi",
+        "tu": "viste",
+        "usted/el/ella": "vio",
+        "nosotros": "vimos",
+        "vosotros": "visteis",
+        "ustedes/ellos/ellas": "vieron"
+      }
+    }
+  },
+  {
+    "infinitive": "viajar",
+    "conjugations": {
+      "present": {
+        "yo": "viajo",
+        "tu": "viajas",
+        "usted/el/ella": "viaja",
+        "nosotros": "viajamos",
+        "vosotros": "viajáis",
+        "ustedes/ellos/ellas": "viajan"
+      },
+      "preterite": {
+        "yo": "viajé",
+        "tu": "viajaste",
+        "usted/el/ella": "viajó",
+        "nosotros": "viajamos",
+        "vosotros": "viajasteis",
+        "ustedes/ellos/ellas": "viajaron"
+      }
+    }
+  },
+  {
+    "infinitive": "vivir",
+    "conjugations": {
+      "present": {
+        "yo": "vivo",
+        "tu": "vives",
+        "usted/el/ella": "vive",
+        "nosotros": "vivimos",
+        "vosotros": "vivís",
+        "ustedes/ellos/ellas": "viven"
+      },
+      "preterite": {
+        "yo": "viví",
+        "tu": "viviste",
+        "usted/el/ella": "vivió",
+        "nosotros": "vivimos",
+        "vosotros": "vivisteis",
+        "ustedes/ellos/ellas": "vivieron"
+      }
+    }
+  },
+  {
     "infinitive": "decir",
     "conjugations": {
       "present": {

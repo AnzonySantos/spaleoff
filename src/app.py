@@ -21,6 +21,7 @@ current_verb: dict = {}
 current_form: str = "yo"
 current_answer: str = ""
 
+
 class TenseScreen(Screen):
     def compose(self) -> ComposeResult:
         yield Header()
@@ -75,7 +76,9 @@ class TenseScreen(Screen):
 
     @on(Button.Pressed, "#imperfect-tense")
     def select_imperfect_tense(self):
-        self.exit()  # PLACEHOLDER
+        global current_tense
+        current_tense = "imperfect"
+        self.app.push_screen("verb_screen")
 
     @on(Button.Pressed, "#future-tense")
     def select_future_tense(self):

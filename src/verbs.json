@@ -17,6 +17,14 @@
         "nosotros": "abrimos",
         "vosotros": "abristeis",
         "ustedes/ellos/ellas": "abrieron"
+      },
+       "imperfect": {
+        "yo": "abría",
+        "tu": "abrías",
+        "usted/el/ella": "abría",
+        "nosotros": "abríamos",
+        "vosotros": "abríais",
+        "ustedes/ellos/ellas": "abrían"
       }
     }
   },
@@ -38,6 +46,14 @@
         "nosotros": "aprendemos",
         "vosotros": "aprendisteis",
         "ustedes/ellos/ellas": "aprendieron"
+      },
+      "imperfect": {
+        "yo": "aprendía",
+        "tu": "aprendías",
+        "usted/el/ella": "aprendía",
+        "nosotros": "apreníamos",
+        "vosotros": "aprendíais",
+        "ustedes/ellos/ellas": "aprendían"
       }
     }
   },
@@ -59,7 +75,16 @@
         "nosotros": "bailamos",
         "vosotros": "bailasteis",
         "ustedes/ellos/ellas": "bailaron"
+      },
+      "imperfect": {
+        "yo": "bailaba",
+        "tu": "bailabas",
+        "usted/el/ella": "bailaba",
+        "nosotros": "bailábamos",
+        "vosotros": "bailabais",
+        "ustedes/ellos/ellas": "bailaban"
       }
+
     }
   },
   {
@@ -80,6 +105,14 @@
         "nosotros": "buscamos",
         "vosotros": "buscasteis",
         "ustedes/ellos/ellas": "buscaron"
+      },
+      "imperfect": {
+        "yo": "buscaba",
+        "tu": "buscabas",
+        "usted/el/ella": "buscaba",
+        "nosotros": "buscábamos",
+        "vosotros": "buscabais",
+        "ustedes/ellos/ellas": "buscaban"
       }
     }
   },
@@ -101,6 +134,14 @@
         "nosotros": "cambiamos",
         "vosotros": "cambiasteis",
         "ustedes/ellos/ellas": "cambiaron"
+      },
+      "imperfect": {
+        "yo": "cambiaba",
+        "tu": "cambiabas",
+        "usted/el/ella": "cambiaba",
+        "nosotros": "cambiámos",
+        "vosotros": "cambiabais",
+        "ustedes/ellos/ellas": "cambiaban"
       }
     }
   },
@@ -122,6 +163,14 @@
         "nosotros": "cantamos",
         "vosotros": "cantasteis",
         "ustedes/ellos/ellas": "cantaron"
+      },
+      "imperfect": {
+        "yo": "cantaba",
+        "tu": "cantabas",
+        "usted/el/ella": "cantaba",
+        "nosotros": "cantábamos",
+        "vosotros": "cantabais",
+        "ustedes/ellos/ellas": "cantaban"
       }
     }
   },
@@ -143,6 +192,14 @@
         "nosotros": "cerramos",
         "vosotros": "cerrasteis",
         "ustedes/ellos/ellas": "cerraron"
+      },
+      "imperfect": {
+        "yo": "cerraba",
+        "tu": "cerrabas",
+        "usted/el/ella": "cerraba",
+        "nosotros": "cerrábamos",
+        "vosotros": "cerrabais",
+        "ustedes/ellos/ellas": "cerraban"
       }
     }
   },
@@ -164,6 +221,14 @@
         "nosotros": "comenzamos",
         "vosotros": "comenzasteis",
         "ustedes/ellos/ellas": "comenzaron"
+      },
+      "imperfect": {
+        "yo": "comenzaba",
+        "tu": "comenzabas",
+        "usted/el/ella": "comenzaba",
+        "nosotros": "comenzábamos",
+        "vosotros": "comenzabais",
+        "ustedes/ellos/ellas": "comenzaban"
       }
     }
   },
@@ -185,6 +250,14 @@
         "nosotros": "comimos",
         "vosotros": "comisteis",
         "ustedes/ellos/ellas": "comieron"
+      },
+      "imperfect": {
+        "yo": "comía",
+        "tu": "comías",
+        "usted/el/ella": "comía",
+        "nosotros": "comíamos",
+        "vosotros": "comíais",
+        "ustedes/ellos/ellas": "comían"
       }
     }
   },
@@ -206,6 +279,14 @@
         "nosotros": "compramos",
         "vosotros": "comprasteis",
         "ustedes/ellos/ellas": "compraron"
+      },
+      "imperfect": {
+        "yo": "compraba",
+        "tu": "comprabas",
+        "usted/el/ella": "compraba",
+        "nosotros": "comprábamos",
+        "vosotros": "comprabais",
+        "ustedes/ellos/ellas": "compraban"
       }
     }
   },
@@ -227,6 +308,14 @@
         "nosotros": "corrimos",
         "vosotros": "corristeis",
         "ustedes/ellos/ellas": "corrieron"
+      },
+      "imperfect": {
+        "yo": "corría",
+        "tu": "corrías",
+        "usted/el/ella": "corría",
+        "nosotros": "corríamos",
+        "vosotros": "corríais",
+        "ustedes/ellos/ellas": "corrían"
       }
     }
   },
@@ -248,6 +337,14 @@
         "nosotros": "creímos",
         "vosotros": "creísteis",
         "ustedes/ellos/ellas": "creyeron"
+      },
+      "imperfect": {
+        "yo": "creía",
+        "tu": "creías",
+        "usted/el/ella": "creía",
+        "nosotros": "creíamos",
+        "vosotros": "creíais",
+        "ustedes/ellos/ellas": "creían"
       }
     }
   },
@@ -269,6 +366,14 @@
         "nosotros": "dimos",
         "vosotros": "disteis",
         "ustedes/ellos/ellas": "dieron"
+      },
+      "imperfect": {
+        "yo": "daba",
+        "tu": "dabas",
+        "usted/el/ella": "daba",
+        "nosotros": "dábamos",
+        "vosotros": "dabais",
+        "ustedes/ellos/ellas": "daban"
       }
     }
   },
@@ -290,6 +395,14 @@
         "nosotros": "dormimos",
         "vosotros": "dormisteis",
         "ustedes/ellos/ellas": "durmieron"
+      },
+      "imperfect": {
+        "yo": "dormía",
+        "tu": "dormías",
+        "usted/el/ella": "dormía",
+        "nosotros": "dormíamos",
+        "vosotros": "dormíais",
+        "ustedes/ellos/ellas": "dormían"
       }
     }
   },
@@ -311,6 +424,14 @@
         "nosotros": "encontramos",
         "vosotros": "encontrasteis",
         "ustedes/ellos/ellas": "encontraron"
+      },
+      "imperfect": {
+        "yo": "encontraba",
+        "tu": "encontrabas",
+        "usted/el/ella": "encontraba",
+        "nosotros": "encontrábamos",
+        "vosotros": "encontrabais",
+        "ustedes/ellos/ellas": "encontraban"
       }
     }
   },
@@ -332,6 +453,14 @@
         "nosotros": "entendimos",
         "vosotros": "entendisteis",
         "ustedes/ellos/ellas": "entendieron"
+      },
+      "imperfect": {
+        "yo": "entendía",
+        "tu": "entendías",
+        "usted/el/ella": "entendía",
+        "nosotros": "entendíamos",
+        "vosotros": "entendíais",
+        "ustedes/ellos/ellas": "entendían"
       }
     }
   },
@@ -353,6 +482,14 @@
         "nosotros": "escribimos",
         "vosotros": "escribisteis",
         "ustedes/ellos/ellas": "escribieron"
+      },
+      "imperfect": {
+        "yo": "escribía",
+        "tu": "escribías",
+        "usted/el/ella": "escribía",
+        "nosotros": "escribíamos",
+        "vosotros": "escribíais",
+        "ustedes/ellos/ellas": "escribían"
       }
     }
   },
@@ -374,6 +511,14 @@
         "nosotros": "escuchamos",
         "vosotros": "escuchasteis",
         "ustedes/ellos/ellas": "escucharon"
+      },
+      "imperfect": {
+        "yo": "escuchaba",
+        "tu": "escuchabas",
+        "usted/el/ella": "escuchaba",
+        "nosotros": "escuchábamos",
+        "vosotros": "escuchabais",
+        "ustedes/ellos/ellas": "escuchaban"
       }
     }
   },
@@ -395,6 +540,14 @@
         "nosotros": "estudiamos",
         "vosotros": "estudiasteis",
         "ustedes/ellos/ellas": "estudiaron"
+      },
+      "imperfect": {
+        "yo": "estudiaba",
+        "tu": "estudiabas",
+        "usted/el/ella": "estudiaba",
+        "nosotros": "estudiábamos",
+        "vosotros": "estudiabais",
+        "ustedes/ellos/ellas": "estudiaban"
       }
     }
   },
@@ -416,6 +569,14 @@
         "nosotros": "explicamos",
         "vosotros": "explicasteis",
         "ustedes/ellos/ellas": "explicaron"
+      },
+      "imperfect": {
+        "yo": "explicaba",
+        "tu": "explicabas",
+        "usted/el/ella": "explicaba",
+        "nosotros": "explicábamos",
+        "vosotros": "explicabais",
+        "ustedes/ellos/ellas": "explicaban"
       }
     }
   },
@@ -437,6 +598,14 @@
         "nosotros": "hablamos",
         "vosotros": "hablasteis",
         "ustedes/ellos/ellas": "hablaron"
+      },
+      "imperfect": {
+        "yo": "hablaba",
+        "tu": "hablabas",
+        "usted/el/ella": "hablaba",
+        "nosotros": "hablábamos",
+        "vosotros": "hablabais",
+        "ustedes/ellos/ellas": "hablaban"
       }
     }
   },
@@ -458,6 +627,14 @@
         "nosotros": "leímos",
         "vosotros": "leísteis",
         "ustedes/ellos/ellas": "leyeron"
+      },
+      "imperfect": {
+        "yo": "leía",
+        "tu": "leías",
+        "usted/el/ella": "leía",
+        "nosotros": "leíamos",
+        "vosotros": "leíais",
+        "ustedes/ellos/ellas": "leían"
       }
     }
   },
@@ -479,6 +656,14 @@
         "nosotros": "llevamos",
         "vosotros": "llevasteis",
         "ustedes/ellos/ellas": "llevaron"
+      },
+      "imperfect": {
+        "yo": "llevaba",
+        "tu": "llevabas",
+        "usted/el/ella": "llevaba",
+        "nosotros": "llevábamos",
+        "vosotros": "llevabais",
+        "ustedes/ellos/ellas": "llevaban"
       }
     }
   },
@@ -500,6 +685,14 @@
         "nosotros": "necesitamos",
         "vosotros": "necesitasteis",
         "ustedes/ellos/ellas": "necesitaron"
+      },
+      "imperfect": {
+        "yo": "necesitaba",
+        "tu": "necesitabas",
+        "usted/el/ella": "necesitaba",
+        "nosotros": "necesitábamos",
+        "vosotros": "necesitabais",
+        "ustedes/ellos/ellas": "necesitaban"
       }
     }
   },
@@ -521,6 +714,14 @@
         "nosotros": "ovlidamos",
         "vosotros": "olvidasteis",
         "ustedes/ellos/ellas": "ovlidaron"
+      },
+      "imperfect": {
+        "yo": "olvidaba",
+        "tu": "ovlidabas",
+        "usted/el/ella": "olvidaba",
+        "nosotros": "olvidábamos",
+        "vosotros": "olvidabais",
+        "ustedes/ellos/ellas": "olvidaban"
       }
     }
   },
@@ -542,6 +743,14 @@
         "nosotros": "pagamos",
         "vosotros": "pagasteis",
         "ustedes/ellos/ellas": "pagaron"
+      },
+      "imperfect": {
+        "yo": "pagaba",
+        "tu": "pagabas",
+        "usted/el/ella": "pagaba",
+        "nosotros": "pagábamos",
+        "vosotros": "pagabais",
+        "ustedes/ellos/ellas": "pagaban"
       }
     }
   },
@@ -563,6 +772,14 @@
         "nosotros": "pensamos",
         "vosotros": "pensasteis",
         "ustedes/ellos/ellas": "pensaron"
+      },
+      "imperfect": {
+        "yo": "pensaba",
+        "tu": "pensabas",
+        "usted/el/ella": "pensaba",
+        "nosotros": "pensábamos",
+        "vosotros": "pensabais",
+        "ustedes/ellos/ellas": "pensaban"
       }
     }
   },
@@ -584,6 +801,14 @@
         "nosotros": "perdimos",
         "vosotros": "perdisteis",
         "ustedes/ellos/ellas": "perdieron"
+      },
+      "imperfect": {
+        "yo": "perdía",
+        "tu": "perdías",
+        "usted/el/ella": "perdía",
+        "nosotros": "perdíamos",
+        "vosotros": "perdíais",
+        "ustedes/ellos/ellas": "perdían"
       }
     }
   },
@@ -605,6 +830,14 @@
         "nosotros": "preguntamos",
         "vosotros": "preguntasteis",
         "ustedes/ellos/ellas": "preguntaron"
+      },
+      "imperfect": {
+        "yo": "preguntaba",
+        "tu": "preguntabas",
+        "usted/el/ella": "preguntaba",
+        "nosotros": "preguntábamos",
+        "vosotros": "preguntabais",
+        "ustedes/ellos/ellas": "preguntaban"
       }
     }
   },
@@ -626,6 +859,14 @@
         "nosotros": "quisimos",
         "vosotros": "quisisteis",
         "ustedes/ellos/ellas": "quisieron"
+      },
+      "imperfect": {
+        "yo": "quería",
+        "tu": "querías",
+        "usted/el/ella": "quería",
+        "nosotros": "queríamos",
+        "vosotros": "queríais",
+        "ustedes/ellos/ellas": "querían"
       }
     }
   },
@@ -647,6 +888,14 @@
         "nosotros": "supimos",
         "vosotros": "supisteis",
         "ustedes/ellos/ellas": "supieron"
+      },
+      "imperfect": {
+        "yo": "sabía",
+        "tu": "sabías",
+        "usted/el/ella": "sabía",
+        "nosotros": "sabíamos",
+        "vosotros": "sabíais",
+        "ustedes/ellos/ellas": "sabían"
       }
     }
   },
@@ -668,6 +917,14 @@
         "nosotros": "salimos",
         "vosotros": "salisteis",
         "ustedes/ellos/ellas": "salieron"
+      },
+      "imperfect": {
+        "yo": "salía",
+        "tu": "salías",
+        "usted/el/ella": "salía",
+        "nosotros": "salíamos",
+        "vosotros": "salíais",
+        "ustedes/ellos/ellas": "salían"
       }
     }
   },
@@ -689,6 +946,14 @@
         "nosotros": "subimos",
         "vosotros": "subisteis",
         "ustedes/ellos/ellas": "subieron"
+      },
+      "imperfect": {
+        "yo": "salía",
+        "tu": "salías",
+        "usted/el/ella": "salía",
+        "nosotros": "salíamos",
+        "vosotros": "salíais",
+        "ustedes/ellos/ellas": "salían"
       }
     }
   },
@@ -710,6 +975,14 @@
         "nosotros": "terminamos",
         "vosotros": "terminasteis",
         "ustedes/ellos/ellas": "terminaron"
+      },
+      "imperfect": {
+        "yo": "terminaba",
+        "tu": "terminabas",
+        "usted/el/ella": "terminaba",
+        "nosotros": "terminábamos",
+        "vosotros": "terminabais",
+        "ustedes/ellos/ellas": "terminaban"
       }
     }
   },
@@ -731,6 +1004,14 @@
         "nosotros": "tomamos",
         "vosotros": "tomasteis",
         "ustedes/ellos/ellas": "tomaron"
+      },
+      "imperfect": {
+        "yo": "tomaba",
+        "tu": "tomabas",
+        "usted/el/ella": "tomaba",
+        "nosotros": "tomábamos",
+        "vosotros": "tomabais",
+        "ustedes/ellos/ellas": "tomaban"
       }
     }
   },
@@ -752,6 +1033,14 @@
         "nosotros": "trabajamos",
         "vosotros": "trabajasteis",
         "ustedes/ellos/ellas": "trabajaron"
+      },
+      "imperfect": {
+        "yo": "trabajaba",
+        "tu": "trabajabas",
+        "usted/el/ella": "trabajaba",
+        "nosotros": "trabajábamos",
+        "vosotros": "trabajabais",
+        "ustedes/ellos/ellas": "trabajaban"
       }
     }
   },
@@ -773,6 +1062,14 @@
         "nosotros": "tradujimos",
         "vosotros": "tradujisteis",
         "ustedes/ellos/ellas": "tradujeron"
+      },
+      "imperfect": {
+        "yo": "traducía",
+        "tu": "traducías",
+        "usted/el/ella": "traducía",
+        "nosotros": "traducíamos",
+        "vosotros": "traducíais",
+        "ustedes/ellos/ellas": "traducían"
       }
     }
   },
@@ -794,7 +1091,15 @@
         "nosotros": "trajimos",
         "vosotros": "trajisteis",
         "ustedes/ellos/ellas": "trajeron"
-      }
+      },
+       "imperfect": {
+        "yo": "traía",
+        "tu": "traías",
+        "usted/el/ella": "traía",
+        "nosotros": "traíamos",
+        "vosotros": "traíais",
+        "ustedes/ellos/ellas": "traían"
+      }           
     }
   },
   {
@@ -815,6 +1120,14 @@
         "nosotros": "vendimos",
         "vosotros": "vendisteis",
         "ustedes/ellos/ellas": "vendieron"
+      },
+      "imperfect": {
+        "yo": "vendía",
+        "tu": "vendías",
+        "usted/el/ella": "vendía",
+        "nosotros": "vendíamos",
+        "vosotros": "vendíais",
+        "ustedes/ellos/ellas": "vendían"
       }
     }
   },
@@ -836,6 +1149,14 @@
         "nosotros": "vimos",
         "vosotros": "visteis",
         "ustedes/ellos/ellas": "vieron"
+      },
+      "imperfect": {
+        "yo": "veia",
+        "tu": "veías",
+        "usted/el/ella": "veía",
+        "nosotros": "veíamos",
+        "vosotros": "veíais",
+        "ustedes/ellos/ellas": "veían"
       }
     }
   },
@@ -857,6 +1178,14 @@
         "nosotros": "viajamos",
         "vosotros": "viajasteis",
         "ustedes/ellos/ellas": "viajaron"
+      },
+      "imperfect": {
+        "yo": "viajaba",
+        "tu": "viajabas",
+        "usted/el/ella": "viajaba",
+        "nosotros": "viajábamos",
+        "vosotros": "viajabais",
+        "ustedes/ellos/ellas": "viajaban"
       }
     }
   },
@@ -878,6 +1207,14 @@
         "nosotros": "vivimos",
         "vosotros": "vivisteis",
         "ustedes/ellos/ellas": "vivieron"
+      },
+      "imperfect": {
+        "yo": "vivía",
+        "tu": "vivías",
+        "usted/el/ella": "vivía",
+        "nosotros": "vivíamos",
+        "vosotros": "vivíais",
+        "ustedes/ellos/ellas": "vivían"
       }
     }
   },
@@ -899,6 +1236,14 @@
         "nosotros": "dijimos",
         "vosotros": "dijisteis",
         "ustedes/ellos/ellas": "dijeron"
+      },
+      "imperfect": {
+        "yo": "decía",
+        "tu": "decías",
+        "usted/el/ella": "decía",
+        "nosotros": "decíamos",
+        "vosotros": "decíais",
+        "ustedes/ellos/ellas": "decían"
       }
     }
   },
@@ -920,6 +1265,14 @@
         "nosotros": "estuvimos",
         "vosotros": "estuvisteis",
         "ustedes/ellos/ellas": "estuvieron"
+      },
+      "imperfect": {
+        "yo": "estaba",
+        "tu": "estabas",
+        "usted/el/ella": "estaba",
+        "nosotros": "estábamos",
+        "vosotros": "estabais",
+        "ustedes/ellos/ellas": "estaban"
       }
     }
   },
@@ -941,6 +1294,14 @@
         "nosotros": "hubimos",
         "vosotros": "hubisteis",
         "ustedes/ellos/ellas": "hubieron"
+      },
+      "imperfect": {
+        "yo": "había",
+        "tu": "habías",
+        "usted/el/ella": "había",
+        "nosotros": "habíamos",
+        "vosotros": "habíais",
+        "ustedes/ellos/ellas": "habían"
       }
     }
   }, 
@@ -962,6 +1323,14 @@
         "nosotros": "hicimos",
         "vosotros": "hicisteis",
         "ustedes/ellos/ellas": "hicieron"
+      },
+      "imperfect": {
+        "yo": "hacia",
+        "tu": "hacías",
+        "usted/el/ella": "hacía",
+        "nosotros": "hacíamos",
+        "vosotros": "hacíais",
+        "ustedes/ellos/ellas": "hacían"
       }
     }
   },
@@ -983,6 +1352,14 @@
         "nosotros": "fuimos",
         "vosotros": "fuisteis",
         "ustedes/ellos/ellas": "fueron"
+      },
+      "imperfect": {
+        "yo": "iba",
+        "tu": "ibas",
+        "usted/el/ella": "iba",
+        "nosotros": "ibamos",
+        "vosotros": "ibais",
+        "ustedes/ellos/ellas": "iban"
       }
     }
   },
@@ -1004,6 +1381,14 @@
         "nosotros": "pudimos",
         "vosotros": "pudisteis",
         "ustedes/ellos/ellas": "pudieron"
+      },
+      "imperfect": {
+        "yo": "podía",
+        "tu": "podías",
+        "usted/el/ella": "podía",
+        "nosotros": "podíamos",
+        "vosotros": "podíais",
+        "ustedes/ellos/ellas": "podían"
       }
     }
   },
@@ -1025,6 +1410,14 @@
         "nosotros": "pusimos",
         "vosotros": "pusisteis",
         "ustedes/ellos/ellas": "pusieron"
+      },
+      "imperfect": {
+        "yo": "ponía",
+        "tu": "ponías",
+        "usted/el/ella": "ponía",
+        "nosotros": "poníamos",
+        "vosotros": "poníais",
+        "ustedes/ellos/ellas": "ponían"
       }
     }
   },
@@ -1046,6 +1439,14 @@
         "nosotros": "fuimos",
         "vosotros": "fuisteis",
         "ustedes/ellos/ellas": "fueron"
+      },
+      "imperfect": {
+        "yo": "era",
+        "tu": "eras",
+        "usted/el/ella": "era",
+        "nosotros": "éramos",
+        "vosotros": "erais",
+        "ustedes/ellos/ellas": "eran"
       }
     }
   },
@@ -1067,6 +1468,14 @@
         "nosotros": "tuvimos",
         "vosotros": "tuvisteis",
         "ustedes/ellos/ellas": "tuvieron"
+      },
+      "imperfect": {
+        "yo": "tenía",
+        "tu": "tenías",
+        "usted/el/ella": "tenía",
+        "nosotros": "teníamos",
+        "vosotros": "teníais",
+        "ustedes/ellos/ellas": "tenían"
       }
     }
   },
@@ -1088,6 +1497,14 @@
         "nosotros": "vinimos",
         "vosotros": "vinisteis",
         "ustedes/ellos/ellas": "vinieron"
+      },
+      "imperfect": {
+        "yo": "venía",
+        "tu": "venías",
+        "usted/el/ella": "venía",
+        "nosotros": "veníamos",
+        "vosotros": "veníais",
+        "ustedes/ellos/ellas": "venían"
       }
     }
   }

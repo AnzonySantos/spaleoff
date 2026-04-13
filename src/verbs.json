@@ -27,36 +27,36 @@
         "ustedes/ellos/ellas": "abrían"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "abriré",
+        "tu": "abrirás",
+        "usted/el/ella": "abrirá",
+        "nosotros": "abriremos",
+        "vosotros": "abriréis",
+        "ustedes/ellos/ellas": "abrirán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "abra",
+        "tu": "abras",
+        "usted/el/ella": "abra",
+        "nosotros": "abramos",
+        "vosotros": "abráis",
+        "ustedes/ellos/ellas": "abran"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "abriera",
+        "tu": "abrieras",
+        "usted/el/ella": "abriera",
+        "nosotros": "abriéramos",
+        "vosotros": "abrierais",
+        "ustedes/ellos/ellas": "abrieran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "abriría",
+        "tu": "abrirías",
+        "usted/el/ella": "abriría",
+        "nosotros": "abriríamos",
+        "vosotros": "abriríais",
+        "ustedes/ellos/ellas": "abrirían"
       }           
     }
   },
@@ -88,36 +88,36 @@
         "ustedes/ellos/ellas": "aprendían"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "aprenderé",
+        "tu": "aprenderás",
+        "usted/el/ella": "aprenderá",
+        "nosotros": "aprenderemos",
+        "vosotros": "aprenderéis",
+        "ustedes/ellos/ellas": "aprenderán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "aprenda",
+        "tu": "aprendas",
+        "usted/el/ella": "aprenda",
+        "nosotros": "aprendamos",
+        "vosotros": "aprendáis",
+        "ustedes/ellos/ellas": "aprendan"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "aprendiera",
+        "tu": "aprendieras",
+        "usted/el/ella": "aprendiera",
+        "nosotros": "aprendiéramos",
+        "vosotros": "aprendierais",
+        "ustedes/ellos/ellas": "aprendieran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "aprendería",
+        "tu": "aprenderías",
+        "usted/el/ella": "aprendería",
+        "nosotros": "aprenderíamos",
+        "vosotros": "aprenderíais",
+        "ustedes/ellos/ellas": "aprenderían"
       }           
     }
   },
@@ -149,36 +149,36 @@
         "ustedes/ellos/ellas": "bailaban"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "bailaré",
+        "tu": "bailarás",
+        "usted/el/ella": "bailará",
+        "nosotros": "bailaremos",
+        "vosotros": "bailaréis",
+        "ustedes/ellos/ellas": "bailarán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "baile",
+        "tu": "bailes",
+        "usted/el/ella": "baile",
+        "nosotros": "bailemos",
+        "vosotros": "bailéis",
+        "ustedes/ellos/ellas": "bailen"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "bailara",
+        "tu": "bailaras",
+        "usted/el/ella": "bailara",
+        "nosotros": "bailáramos",
+        "vosotros": "bailarais",
+        "ustedes/ellos/ellas": "bailaran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "bailaría",
+        "tu": "bailarías",
+        "usted/el/ella": "bailaría",
+        "nosotros": "bailaríamos",
+        "vosotros": "bailaríais",
+        "ustedes/ellos/ellas": "bailarían"
       }
     }
   },
@@ -210,36 +210,36 @@
         "ustedes/ellos/ellas": "buscaban"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "buscaré",
+        "tu": "buscarás",
+        "usted/el/ella": "buscará",
+        "nosotros": "buscaremos",
+        "vosotros": "buscaréis",
+        "ustedes/ellos/ellas": "buscarán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "busque",
+        "tu": "busques",
+        "usted/el/ella": "busque",
+        "nosotros": "busquemos",
+        "vosotros": "busquéis",
+        "ustedes/ellos/ellas": "busquen"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "buscara",
+        "tu": "buscaras",
+        "usted/el/ella": "buscara",
+        "nosotros": "buscáramos",
+        "vosotros": "buscarais",
+        "ustedes/ellos/ellas": "buscaran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "buscaría",
+        "tu": "buscarías",
+        "usted/el/ella": "buscaría",
+        "nosotros": "buscaríamos",
+        "vosotros": "buscaríais",
+        "ustedes/ellos/ellas": "buscarían"
       }
     }
   },
@@ -271,36 +271,36 @@
         "ustedes/ellos/ellas": "cambiaban"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "cambiaré",
+        "tu": "cambiarás",
+        "usted/el/ella": "cambiará",
+        "nosotros": "cambiaremos",
+        "vosotros": "cambiaréis",
+        "ustedes/ellos/ellas": "cambiarán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "cambie",
+        "tu": "cambies",
+        "usted/el/ella": "cambie",
+        "nosotros": "cambiemos",
+        "vosotros": "cambiéis",
+        "ustedes/ellos/ellas": "cambien"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "cambiara",
+        "tu": "cambiaras",
+        "usted/el/ella": "cambiara",
+        "nosotros": "cambiáramos",
+        "vosotros": "cambiarais",
+        "ustedes/ellos/ellas": "cambiaran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "cambiaría",
+        "tu": "cambiarías",
+        "usted/el/ella": "cambiaría",
+        "nosotros": "cambiaríamos",
+        "vosotros": "cambiaríais",
+        "ustedes/ellos/ellas": "cambiarían"
       }
     }
   },
@@ -332,36 +332,36 @@
         "ustedes/ellos/ellas": "cantaban"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "cantaré",
+        "tu": "cantarás",
+        "usted/el/ella": "cantará",
+        "nosotros": "cantaremos",
+        "vosotros": "cantaréis",
+        "ustedes/ellos/ellas": "cantarán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "cante",
+        "tu": "cantes",
+        "usted/el/ella": "cante",
+        "nosotros": "cantemos",
+        "vosotros": "cantéis",
+        "ustedes/ellos/ellas": "canten"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "cantara",
+        "tu": "cantaras",
+        "usted/el/ella": "cantara",
+        "nosotros": "cantáramos",
+        "vosotros": "cantarais",
+        "ustedes/ellos/ellas": "cantaran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "cantaría",
+        "tu": "cantarías",
+        "usted/el/ella": "cantaría",
+        "nosotros": "cantaríamos",
+        "vosotros": "cantaríais",
+        "ustedes/ellos/ellas": "cantarían"
       }
     }
   },
@@ -393,36 +393,36 @@
         "ustedes/ellos/ellas": "cerraban"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "cerraré",
+        "tu": "cerrarás",
+        "usted/el/ella": "cerrará",
+        "nosotros": "cerraremos",
+        "vosotros": "cerraréis",
+        "ustedes/ellos/ellas": "cerrarán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "cierre",
+        "tu": "cierres",
+        "usted/el/ella": "cierre",
+        "nosotros": "cerremos",
+        "vosotros": "cerréis",
+        "ustedes/ellos/ellas": "cierren"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "cerrara",
+        "tu": "cerraras",
+        "usted/el/ella": "cerrara",
+        "nosotros": "cerráramos",
+        "vosotros": "cerrarais",
+        "ustedes/ellos/ellas": "cerraran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "cerraría",
+        "tu": "cerrarías",
+        "usted/el/ella": "cerraría",
+        "nosotros": "cerraríamos",
+        "vosotros": "cerraríais",
+        "ustedes/ellos/ellas": "cerrarían"
       }
     }
   },
@@ -454,36 +454,36 @@
         "ustedes/ellos/ellas": "comenzaban"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "comenzaré",
+        "tu": "comenzarás",
+        "usted/el/ella": "comenzará",
+        "nosotros": "comenzaremos",
+        "vosotros": "comenzaréis",
+        "ustedes/ellos/ellas": "comenzarán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "comience",
+        "tu": "comiences",
+        "usted/el/ella": "comience",
+        "nosotros": "comencemos",
+        "vosotros": "comencéis",
+        "ustedes/ellos/ellas": "comiencen"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "comenzara",
+        "tu": "comenzaras",
+        "usted/el/ella": "comenzara",
+        "nosotros": "comenzáramos",
+        "vosotros": "comenzarais",
+        "ustedes/ellos/ellas": "comenzaran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "comenzaría",
+        "tu": "comenzarías",
+        "usted/el/ella": "comenzaría",
+        "nosotros": "comenzaríamos",
+        "vosotros": "comenzaríais",
+        "ustedes/ellos/ellas": "comenzarían"
       }
     }
   },
@@ -515,36 +515,36 @@
         "ustedes/ellos/ellas": "comían"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "comeré",
+        "tu": "comerás",
+        "usted/el/ella": "comerá",
+        "nosotros": "comeremos",
+        "vosotros": "comeréis",
+        "ustedes/ellos/ellas": "comerán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "coma",
+        "tu": "comas",
+        "usted/el/ella": "coma",
+        "nosotros": "comamos",
+        "vosotros": "comáis",
+        "ustedes/ellos/ellas": "coman"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "comiera",
+        "tu": "comieras",
+        "usted/el/ella": "comiera",
+        "nosotros": "comiéramos",
+        "vosotros": "comierais",
+        "ustedes/ellos/ellas": "comieran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "comería",
+        "tu": "comerías",
+        "usted/el/ella": "comería",
+        "nosotros": "comeríamos",
+        "vosotros": "comeríais",
+        "ustedes/ellos/ellas": "comerían"
       }
     }
   },
@@ -576,36 +576,36 @@
         "ustedes/ellos/ellas": "compraban"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "compraré",
+        "tu": "comprarás",
+        "usted/el/ella": "comprará",
+        "nosotros": "compraremos",
+        "vosotros": "compraréis",
+        "ustedes/ellos/ellas": "comprarán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "compre",
+        "tu": "compres",
+        "usted/el/ella": "compre",
+        "nosotros": "compremos",
+        "vosotros": "compréis",
+        "ustedes/ellos/ellas": "compren"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "comprara",
+        "tu": "compraras",
+        "usted/el/ella": "comprara",
+        "nosotros": "compráramos",
+        "vosotros": "comprarais",
+        "ustedes/ellos/ellas": "compraran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "compraría",
+        "tu": "comprarías",
+        "usted/el/ella": "compraría",
+        "nosotros": "compraríamos",
+        "vosotros": "compraríais",
+        "ustedes/ellos/ellas": "comprarían"
       }
     }
   },
@@ -637,36 +637,36 @@
         "ustedes/ellos/ellas": "corrían"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "correré",
+        "tu": "correrás",
+        "usted/el/ella": "correrá",
+        "nosotros": "correremos",
+        "vosotros": "correréis",
+        "ustedes/ellos/ellas": "correrán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "corra",
+        "tu": "corras",
+        "usted/el/ella": "corra",
+        "nosotros": "corramos",
+        "vosotros": "corráis",
+        "ustedes/ellos/ellas": "corran"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "corriera",
+        "tu": "corrieras",
+        "usted/el/ella": "corriera",
+        "nosotros": "corriéramos",
+        "vosotros": "corrierais",
+        "ustedes/ellos/ellas": "corrieran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "correría",
+        "tu": "correrías",
+        "usted/el/ella": "correría",
+        "nosotros": "correríamos",
+        "vosotros": "correríais",
+        "ustedes/ellos/ellas": "correrían"
       }
     }
   },
@@ -698,36 +698,36 @@
         "ustedes/ellos/ellas": "creían"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "creeré",
+        "tu": "creerás",
+        "usted/el/ella": "creerá",
+        "nosotros": "creeremos",
+        "vosotros": "creeréis",
+        "ustedes/ellos/ellas": "creerán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "crea",
+        "tu": "creas",
+        "usted/el/ella": "crea",
+        "nosotros": "creamos",
+        "vosotros": "creáis",
+        "ustedes/ellos/ellas": "crean"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "creyera",
+        "tu": "creyeras",
+        "usted/el/ella": "creyera",
+        "nosotros": "creyéramos",
+        "vosotros": "creyerais",
+        "ustedes/ellos/ellas": "creyeran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "creería",
+        "tu": "creerías",
+        "usted/el/ella": "creería",
+        "nosotros": "creeríamos",
+        "vosotros": "creeríais",
+        "ustedes/ellos/ellas": "creerían"
       }
     }
   },
@@ -759,36 +759,36 @@
         "ustedes/ellos/ellas": "daban"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "daré",
+        "tu": "darás",
+        "usted/el/ella": "dará",
+        "nosotros": "daremos",
+        "vosotros": "daréis",
+        "ustedes/ellos/ellas": "darán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "dé",
+        "tu": "des",
+        "usted/el/ella": "dé",
+        "nosotros": "demos",
+        "vosotros": "deis",
+        "ustedes/ellos/ellas": "den"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "diera",
+        "tu": "dieras",
+        "usted/el/ella": "diera",
+        "nosotros": "diéramos",
+        "vosotros": "dierais",
+        "ustedes/ellos/ellas": "dieran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "daría",
+        "tu": "darías",
+        "usted/el/ella": "daría",
+        "nosotros": "daríamos",
+        "vosotros": "daríais",
+        "ustedes/ellos/ellas": "darían"
       }
     }
   },
@@ -820,36 +820,36 @@
         "ustedes/ellos/ellas": "dormían"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "dormiré",
+        "tu": "dormirás",
+        "usted/el/ella": "dormirá",
+        "nosotros": "dormiremos",
+        "vosotros": "dormiréis",
+        "ustedes/ellos/ellas": "dormirán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "duerma",
+        "tu": "duermas",
+        "usted/el/ella": "duerma",
+        "nosotros": "durmamos",
+        "vosotros": "durmáis",
+        "ustedes/ellos/ellas": "duerman"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "durmiera",
+        "tu": "durmieras",
+        "usted/el/ella": "durmiera",
+        "nosotros": "durmiéramos",
+        "vosotros": "durmierais",
+        "ustedes/ellos/ellas": "durmieran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "dormiría",
+        "tu": "dormirías",
+        "usted/el/ella": "dormiría",
+        "nosotros": "dormiríamos",
+        "vosotros": "dormiríais",
+        "ustedes/ellos/ellas": "dormirían"
       }
     }
   },
@@ -881,36 +881,36 @@
         "ustedes/ellos/ellas": "encontraban"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "encontraré",
+        "tu": "encontrarás",
+        "usted/el/ella": "encontrará",
+        "nosotros": "encontraremos",
+        "vosotros": "encontraréis",
+        "ustedes/ellos/ellas": "encontrarán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "encuentre",
+        "tu": "encuentres",
+        "usted/el/ella": "encuentre",
+        "nosotros": "encontremos",
+        "vosotros": "encontréis",
+        "ustedes/ellos/ellas": "encuentren"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "encontrara",
+        "tu": "encontraras",
+        "usted/el/ella": "encontrara",
+        "nosotros": "encontráramos",
+        "vosotros": "encontrarais",
+        "ustedes/ellos/ellas": "encontraran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "encontraría",
+        "tu": "encontrarías",
+        "usted/el/ella": "encontraría",
+        "nosotros": "encontraríamos",
+        "vosotros": "encontraríais",
+        "ustedes/ellos/ellas": "encontrarían"
       }
     }
   },
@@ -942,36 +942,36 @@
         "ustedes/ellos/ellas": "entendían"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "entenderé",
+        "tu": "entenderás",
+        "usted/el/ella": "entenderá",
+        "nosotros": "entenderemos",
+        "vosotros": "entenderéis",
+        "ustedes/ellos/ellas": "entenderán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "entienda",
+        "tu": "entiendas",
+        "usted/el/ella": "entienda",
+        "nosotros": "entendamos",
+        "vosotros": "entendáis",
+        "ustedes/ellos/ellas": "entiendan"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "entendiera",
+        "tu": "entendieras",
+        "usted/el/ella": "entendiera",
+        "nosotros": "entendiéramos",
+        "vosotros": "entendierais",
+        "ustedes/ellos/ellas": "entendieran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "entendería",
+        "tu": "entenderías",
+        "usted/el/ella": "entendería",
+        "nosotros": "entenderíamos",
+        "vosotros": "entenderíais",
+        "ustedes/ellos/ellas": "entenderían"
       }
     }
   },
@@ -1003,36 +1003,36 @@
         "ustedes/ellos/ellas": "escribían"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "escribiré",
+        "tu": "escribirás",
+        "usted/el/ella": "escribirá",
+        "nosotros": "escribiremos",
+        "vosotros": "escribiréis",
+        "ustedes/ellos/ellas": "escribirán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "escriba",
+        "tu": "escribas",
+        "usted/el/ella": "escriba",
+        "nosotros": "escribamos",
+        "vosotros": "escribáis",
+        "ustedes/ellos/ellas": "escriban"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "escribiera",
+        "tu": "escribieras",
+        "usted/el/ella": "escribiera",
+        "nosotros": "escribiéramos",
+        "vosotros": "escribierais",
+        "ustedes/ellos/ellas": "escribieran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "escribiría",
+        "tu": "escribirías",
+        "usted/el/ella": "escribiría",
+        "nosotros": "escribiríamos",
+        "vosotros": "escribiríais",
+        "ustedes/ellos/ellas": "escribirían"
       }
     }
   },
@@ -1064,36 +1064,36 @@
         "ustedes/ellos/ellas": "escuchaban"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "escucharé",
+        "tu": "escucharás",
+        "usted/el/ella": "escuchará",
+        "nosotros": "escucharemos",
+        "vosotros": "escucharéis",
+        "ustedes/ellos/ellas": "escucharán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "escuche",
+        "tu": "escuches",
+        "usted/el/ella": "escuche",
+        "nosotros": "escuchemos",
+        "vosotros": "escuchéis",
+        "ustedes/ellos/ellas": "escuchen"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "escuchara",
+        "tu": "escucharas",
+        "usted/el/ella": "escuchara",
+        "nosotros": "escucháramos",
+        "vosotros": "escucharais",
+        "ustedes/ellos/ellas": "escucharan"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "escucharía",
+        "tu": "escuharías",
+        "usted/el/ella": "escucharía",
+        "nosotros": "escucharíamos",
+        "vosotros": "escucharíais",
+        "ustedes/ellos/ellas": "escucharían"
       }
     }
   },
@@ -1125,36 +1125,36 @@
         "ustedes/ellos/ellas": "estudiaban"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "estudiaré",
+        "tu": "estudiarás",
+        "usted/el/ella": "estudiará",
+        "nosotros": "estudiaremos",
+        "vosotros": "estudiaréis",
+        "ustedes/ellos/ellas": "estudiarán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "estudie",
+        "tu": "estudies",
+        "usted/el/ella": "estudie",
+        "nosotros": "estudiemos",
+        "vosotros": "estudéis",
+        "ustedes/ellos/ellas": "estudien"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "estudiara",
+        "tu": "estudiaras",
+        "usted/el/ella": "estudiara",
+        "nosotros": "estuiáramos",
+        "vosotros": "estudiarais",
+        "ustedes/ellos/ellas": "estudiaran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "estudiaría",
+        "tu": "estudiarías",
+        "usted/el/ella": "estudiaría",
+        "nosotros": "estudiaríamos",
+        "vosotros": "estudiaríais",
+        "ustedes/ellos/ellas": "estudiarían"
       }
     }
   },
@@ -1186,36 +1186,36 @@
         "ustedes/ellos/ellas": "explicaban"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "explicaré",
+        "tu": "explicarás",
+        "usted/el/ella": "explicará",
+        "nosotros": "explicaremos",
+        "vosotros": "explicaréis",
+        "ustedes/ellos/ellas": "explicarán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "explique",
+        "tu": "expliques",
+        "usted/el/ella": "explique",
+        "nosotros": "expliquemos",
+        "vosotros": "expliquéis",
+        "ustedes/ellos/ellas": "expliquen"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "explicara",
+        "tu": "explicaras",
+        "usted/el/ella": "explicara",
+        "nosotros": "explicáramos",
+        "vosotros": "explicarais",
+        "ustedes/ellos/ellas": "explicaran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "explicaría",
+        "tu": "explicarías",
+        "usted/el/ella": "explicaría",
+        "nosotros": "explicaríamos",
+        "vosotros": "explicaríais",
+        "ustedes/ellos/ellas": "explicarían"
       }
     }
   },
@@ -1247,36 +1247,36 @@
         "ustedes/ellos/ellas": "hablaban"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "hablaré",
+        "tu": "hablarás",
+        "usted/el/ella": "hablará",
+        "nosotros": "hablaremos",
+        "vosotros": "hablaréis",
+        "ustedes/ellos/ellas": "hablarán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "hable",
+        "tu": "hables",
+        "usted/el/ella": "hable",
+        "nosotros": "hablemos",
+        "vosotros": "habléis",
+        "ustedes/ellos/ellas": "hablen"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "hablara",
+        "tu": "hablaras",
+        "usted/el/ella": "hablara",
+        "nosotros": "habláramos",
+        "vosotros": "hablarais",
+        "ustedes/ellos/ellas": "hablaran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "hablaría",
+        "tu": "hablarías",
+        "usted/el/ella": "hablaría",
+        "nosotros": "hablaríamos",
+        "vosotros": "hablaríais",
+        "ustedes/ellos/ellas": "hablarían"
       }
     }
   },
@@ -1308,36 +1308,36 @@
         "ustedes/ellos/ellas": "leían"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "leeré",
+        "tu": "leerás",
+        "usted/el/ella": "leerá",
+        "nosotros": "leeremos",
+        "vosotros": "leeréis",
+        "ustedes/ellos/ellas": "leerán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "lea",
+        "tu": "leas",
+        "usted/el/ella": "lea",
+        "nosotros": "leamos",
+        "vosotros": "leáis",
+        "ustedes/ellos/ellas": "lean"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "leyera",
+        "tu": "leyeras",
+        "usted/el/ella": "leyera",
+        "nosotros": "leyéramos",
+        "vosotros": "leyerais",
+        "ustedes/ellos/ellas": "leyeran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "leería",
+        "tu": "leerías",
+        "usted/el/ella": "leería",
+        "nosotros": "leeríamos",
+        "vosotros": "leeríais",
+        "ustedes/ellos/ellas": "leerían"
       }
     }
   },
@@ -1369,36 +1369,36 @@
         "ustedes/ellos/ellas": "llevaban"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "llevaré",
+        "tu": "llevarás",
+        "usted/el/ella": "llevará",
+        "nosotros": "llevaremos",
+        "vosotros": "llevaréis",
+        "ustedes/ellos/ellas": "llevarán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "lleve",
+        "tu": "lleves",
+        "usted/el/ella": "lleve",
+        "nosotros": "llevemos",
+        "vosotros": "llevéis",
+        "ustedes/ellos/ellas": "lleven"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "llevara",
+        "tu": "llevaras",
+        "usted/el/ella": "llevara",
+        "nosotros": "lleváramos",
+        "vosotros": "llevarais",
+        "ustedes/ellos/ellas": "llevaran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "llevaría",
+        "tu": "llevarías",
+        "usted/el/ella": "llevaría",
+        "nosotros": "llevaríamos",
+        "vosotros": "llevaríais",
+        "ustedes/ellos/ellas": "llevarían"
       }
     }
   },
@@ -1430,36 +1430,36 @@
         "ustedes/ellos/ellas": "necesitaban"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "necesitaré",
+        "tu": "necesitarás",
+        "usted/el/ella": "necesitará",
+        "nosotros": "necesitaremos",
+        "vosotros": "necesitaréis",
+        "ustedes/ellos/ellas": "necesitarán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "necesite",
+        "tu": "necesites",
+        "usted/el/ella": "necesite",
+        "nosotros": "necesitemos",
+        "vosotros": "necesitéis",
+        "ustedes/ellos/ellas": "necesiten"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "necesitara",
+        "tu": "necesitaras",
+        "usted/el/ella": "necesitara",
+        "nosotros": "necesitáramos",
+        "vosotros": "necesitarais",
+        "ustedes/ellos/ellas": "necesitaran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "necesitaría",
+        "tu": "necesitarías",
+        "usted/el/ella": "necesitaría",
+        "nosotros": "necesitaríamos",
+        "vosotros": "necesitaríais",
+        "ustedes/ellos/ellas": "necesitarían"
       }
     }
   },
@@ -1491,36 +1491,36 @@
         "ustedes/ellos/ellas": "olvidaban"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "olvidaré",
+        "tu": "olvidarás",
+        "usted/el/ella": "olvidará",
+        "nosotros": "olvidaremos",
+        "vosotros": "olvidaréis",
+        "ustedes/ellos/ellas": "olvidarán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "olvide",
+        "tu": "olvides",
+        "usted/el/ella": "olvide",
+        "nosotros": "olvidemos",
+        "vosotros": "olvidéis",
+        "ustedes/ellos/ellas": "olviden"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "olvidara",
+        "tu": "olvidaras",
+        "usted/el/ella": "olvidara",
+        "nosotros": "olvidáramos",
+        "vosotros": "olvidarais",
+        "ustedes/ellos/ellas": "olvidaran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "olvidaría",
+        "tu": "olvidarías",
+        "usted/el/ella": "olvidaría",
+        "nosotros": "olvidaríamos",
+        "vosotros": "olvidaríais",
+        "ustedes/ellos/ellas": "olvidarían"
       }
     }
   },
@@ -1552,36 +1552,36 @@
         "ustedes/ellos/ellas": "pagaban"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "pagaré",
+        "tu": "pagarás",
+        "usted/el/ella": "pagará",
+        "nosotros": "pagaremos",
+        "vosotros": "pagaréis",
+        "ustedes/ellos/ellas": "pagarán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "pague",
+        "tu": "pagues",
+        "usted/el/ella": "pague",
+        "nosotros": "paguemos",
+        "vosotros": "paguéis",
+        "ustedes/ellos/ellas": "paguen"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "pagara",
+        "tu": "pagaras",
+        "usted/el/ella": "pagara",
+        "nosotros": "pagáramos",
+        "vosotros": "pagarais",
+        "ustedes/ellos/ellas": "pagaran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "pagaría",
+        "tu": "pagarías",
+        "usted/el/ella": "pagaría",
+        "nosotros": "pagaríamos",
+        "vosotros": "pagaríais",
+        "ustedes/ellos/ellas": "pagarían"
       }
     }
   },
@@ -1613,36 +1613,36 @@
         "ustedes/ellos/ellas": "pensaban"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "pensaré",
+        "tu": "pensarás",
+        "usted/el/ella": "pensará",
+        "nosotros": "pensaremos",
+        "vosotros": "pensaréis",
+        "ustedes/ellos/ellas": "pensarán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "piense",
+        "tu": "pienses",
+        "usted/el/ella": "piense",
+        "nosotros": "pensemos",
+        "vosotros": "penséis",
+        "ustedes/ellos/ellas": "piensen"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "pensara",
+        "tu": "pensaras",
+        "usted/el/ella": "pensara",
+        "nosotros": "pensáramos",
+        "vosotros": "pensarais",
+        "ustedes/ellos/ellas": "pensaran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "pensaría",
+        "tu": "pensarías",
+        "usted/el/ella": "pensaría",
+        "nosotros": "pensaríamos",
+        "vosotros": "pensaríais",
+        "ustedes/ellos/ellas": "pensarían"
       }
     }
   },
@@ -1674,36 +1674,36 @@
         "ustedes/ellos/ellas": "perdían"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "perderé",
+        "tu": "perderás",
+        "usted/el/ella": "perderá",
+        "nosotros": "perderemos",
+        "vosotros": "perderéis",
+        "ustedes/ellos/ellas": "perderán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "pierda",
+        "tu": "pierdas",
+        "usted/el/ella": "pierda",
+        "nosotros": "perdamos",
+        "vosotros": "perdáis",
+        "ustedes/ellos/ellas": "pierdan"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "perdiera",
+        "tu": "perdieras",
+        "usted/el/ella": "perdiera",
+        "nosotros": "perdiéramos",
+        "vosotros": "perdierais",
+        "ustedes/ellos/ellas": "perdieran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "perdería",
+        "tu": "perderías",
+        "usted/el/ella": "perdería",
+        "nosotros": "perderíamos",
+        "vosotros": "perderíais",
+        "ustedes/ellos/ellas": "perderían"
       }
     }
   },
@@ -1735,36 +1735,36 @@
         "ustedes/ellos/ellas": "preguntaban"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "preguntaré",
+        "tu": "preguntarás",
+        "usted/el/ella": "preguntará",
+        "nosotros": "preguntaremos",
+        "vosotros": "preguntaréis",
+        "ustedes/ellos/ellas": "preguntarán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "pregunte",
+        "tu": "preguntes",
+        "usted/el/ella": "pregunte",
+        "nosotros": "preguntemos",
+        "vosotros": "preguntéis",
+        "ustedes/ellos/ellas": "pregunten"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "preguntara",
+        "tu": "preguntaras",
+        "usted/el/ella": "preguntara",
+        "nosotros": "preguntáramos",
+        "vosotros": "preguntarais",
+        "ustedes/ellos/ellas": "preguntaran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "preguntaría",
+        "tu": "preguntarías",
+        "usted/el/ella": "preguntaría",
+        "nosotros": "preguntaríamos",
+        "vosotros": "preguntaríais",
+        "ustedes/ellos/ellas": "preguntarían"
       }
     }
   },
@@ -1796,36 +1796,36 @@
         "ustedes/ellos/ellas": "querían"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "querré",
+        "tu": "querrás",
+        "usted/el/ella": "querrá",
+        "nosotros": "querremos",
+        "vosotros": "querréis",
+        "ustedes/ellos/ellas": "querrán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "quiera",
+        "tu": "quieras",
+        "usted/el/ella": "quiera",
+        "nosotros": "queramos",
+        "vosotros": "queráis",
+        "ustedes/ellos/ellas": "quieran"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "quisiera",
+        "tu": "quisieras",
+        "usted/el/ella": "quisiera",
+        "nosotros": "quisiéramos",
+        "vosotros": "quisierais",
+        "ustedes/ellos/ellas": "quisieran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "querría",
+        "tu": "querrías",
+        "usted/el/ella": "querría",
+        "nosotros": "querríamos",
+        "vosotros": "querríais",
+        "ustedes/ellos/ellas": "querrían"
       }
     }
   },
@@ -1857,36 +1857,36 @@
         "ustedes/ellos/ellas": "sabían"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "sabré",
+        "tu": "sabrás",
+        "usted/el/ella": "sabrá",
+        "nosotros": "sabremos",
+        "vosotros": "sabréis",
+        "ustedes/ellos/ellas": "sabrán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "sepa",
+        "tu": "sepas",
+        "usted/el/ella": "sepa",
+        "nosotros": "sepamos",
+        "vosotros": "sepáis",
+        "ustedes/ellos/ellas": "sepan"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "supiera",
+        "tu": "supieras",
+        "usted/el/ella": "supiera",
+        "nosotros": "supiéramos",
+        "vosotros": "supierais",
+        "ustedes/ellos/ellas": "supieran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "sabría",
+        "tu": "sabrías",
+        "usted/el/ella": "sabría",
+        "nosotros": "sabríamos",
+        "vosotros": "sabríais",
+        "ustedes/ellos/ellas": "sabrían"
       }
     }
   },
@@ -1918,36 +1918,36 @@
         "ustedes/ellos/ellas": "salían"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "saldré",
+        "tu": "saldrás",
+        "usted/el/ella": "saldrá",
+        "nosotros": "saldremos",
+        "vosotros": "saldréis",
+        "ustedes/ellos/ellas": "saldrán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "salga",
+        "tu": "salgas",
+        "usted/el/ella": "salga",
+        "nosotros": "salgamos",
+        "vosotros": "salgáis",
+        "ustedes/ellos/ellas": "salgan"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "saliera",
+        "tu": "salieras",
+        "usted/el/ella": "saliera",
+        "nosotros": "saliéramos",
+        "vosotros": "salierais",
+        "ustedes/ellos/ellas": "salieran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "saldría",
+        "tu": "saldrías",
+        "usted/el/ella": "saldría",
+        "nosotros": "saldríamos",
+        "vosotros": "saldríais",
+        "ustedes/ellos/ellas": "saldrían"
       }
     }
   },
@@ -1979,36 +1979,36 @@
         "ustedes/ellos/ellas": "salían"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "subiré",
+        "tu": "subirás",
+        "usted/el/ella": "subirá",
+        "nosotros": "subiremos",
+        "vosotros": "subiréis",
+        "ustedes/ellos/ellas": "subirán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "suba",
+        "tu": "subas",
+        "usted/el/ella": "suba",
+        "nosotros": "subamos",
+        "vosotros": "subáis",
+        "ustedes/ellos/ellas": "suban"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "subiera",
+        "tu": "subieras",
+        "usted/el/ella": "subiera",
+        "nosotros": "subiéramos",
+        "vosotros": "subierais",
+        "ustedes/ellos/ellas": "subieran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "subiría",
+        "tu": "subirías",
+        "usted/el/ella": "subiría",
+        "nosotros": "subiríamos",
+        "vosotros": "subiríais",
+        "ustedes/ellos/ellas": "subirían"
       }
     }
   },
@@ -2040,36 +2040,36 @@
         "ustedes/ellos/ellas": "terminaban"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "terminaré",
+        "tu": "terminarás",
+        "usted/el/ella": "terminará",
+        "nosotros": "terminaremos",
+        "vosotros": "terminaréis",
+        "ustedes/ellos/ellas": "terminarán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "termine",
+        "tu": "termines",
+        "usted/el/ella": "termine",
+        "nosotros": "terminemos",
+        "vosotros": "terminéis",
+        "ustedes/ellos/ellas": "terminen"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "terminara",
+        "tu": "terminaras",
+        "usted/el/ella": "terminara",
+        "nosotros": "termináramos",
+        "vosotros": "terminarais",
+        "ustedes/ellos/ellas": "terminaran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "terminaría",
+        "tu": "terminarías",
+        "usted/el/ella": "terminaría",
+        "nosotros": "terminaríamos",
+        "vosotros": "terminaríais",
+        "ustedes/ellos/ellas": "terminarían"
       }
     }
   },
@@ -2101,36 +2101,36 @@
         "ustedes/ellos/ellas": "tomaban"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "tomaré",
+        "tu": "tomarás",
+        "usted/el/ella": "tomará",
+        "nosotros": "tomaremos",
+        "vosotros": "tomaréis",
+        "ustedes/ellos/ellas": "tomarán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "tome",
+        "tu": "tomes",
+        "usted/el/ella": "tome",
+        "nosotros": "tomemos",
+        "vosotros": "toméis",
+        "ustedes/ellos/ellas": "tomen"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "tomara",
+        "tu": "tomaras",
+        "usted/el/ella": "tomara",
+        "nosotros": "tomáramos",
+        "vosotros": "tomarais",
+        "ustedes/ellos/ellas": "tomaran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "tomaría",
+        "tu": "tomarías",
+        "usted/el/ella": "tomaría",
+        "nosotros": "tomaríamos",
+        "vosotros": "tomaríais",
+        "ustedes/ellos/ellas": "tomarían"
       }
     }
   },
@@ -2162,36 +2162,36 @@
         "ustedes/ellos/ellas": "trabajaban"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "trabajaré",
+        "tu": "trabajarás",
+        "usted/el/ella": "trabajará",
+        "nosotros": "trabajaremos",
+        "vosotros": "trabajaréis",
+        "ustedes/ellos/ellas": "trabajarán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "trabaje",
+        "tu": "trabajes",
+        "usted/el/ella": "trabaje",
+        "nosotros": "trabajemos",
+        "vosotros": "trabajéis",
+        "ustedes/ellos/ellas": "trabajen"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "trabajara",
+        "tu": "trabajaras",
+        "usted/el/ella": "trabajara",
+        "nosotros": "trabajáramos",
+        "vosotros": "trabajarais",
+        "ustedes/ellos/ellas": "trabajaran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "trabajaría",
+        "tu": "trabajarías",
+        "usted/el/ella": "trabajaría",
+        "nosotros": "trabajaríamos",
+        "vosotros": "trabajaríais",
+        "ustedes/ellos/ellas": "trabajarían"
       }
     }
   },
@@ -2223,36 +2223,36 @@
         "ustedes/ellos/ellas": "traducían"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "traduciré",
+        "tu": "traducirás",
+        "usted/el/ella": "traducirá",
+        "nosotros": "traduciremos",
+        "vosotros": "traduciréis",
+        "ustedes/ellos/ellas": "traducirán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "traduzca",
+        "tu": "traduzcas",
+        "usted/el/ella": "traduzca",
+        "nosotros": "traduzcamos",
+        "vosotros": "traduzcáis",
+        "ustedes/ellos/ellas": "traduzcan"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "tradujera",
+        "tu": "tradujeras",
+        "usted/el/ella": "tradujera",
+        "nosotros": "tradujéramos",
+        "vosotros": "tradujerais",
+        "ustedes/ellos/ellas": "tradujeran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "traduciría",
+        "tu": "traducirías",
+        "usted/el/ella": "traduciría",
+        "nosotros": "traduciríamos",
+        "vosotros": "traduciríais",
+        "ustedes/ellos/ellas": "traducirían"
       }
     }
   },
@@ -2284,36 +2284,36 @@
         "ustedes/ellos/ellas": "traían"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "traeré",
+        "tu": "traerás",
+        "usted/el/ella": "traerá",
+        "nosotros": "traeremos",
+        "vosotros": "traeréis",
+        "ustedes/ellos/ellas": "traerán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "traiga",
+        "tu": "traigas",
+        "usted/el/ella": "traiga",
+        "nosotros": "traigamos",
+        "vosotros": "traigáis",
+        "ustedes/ellos/ellas": "traigan"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "trajera",
+        "tu": "trajeras",
+        "usted/el/ella": "trajera",
+        "nosotros": "trajéramos",
+        "vosotros": "trajerais",
+        "ustedes/ellos/ellas": "trajeran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "traería",
+        "tu": "traerías",
+        "usted/el/ella": "traería",
+        "nosotros": "traeríamos",
+        "vosotros": "traeríais",
+        "ustedes/ellos/ellas": "traerían"
       }           
     }
   },
@@ -2345,36 +2345,36 @@
         "ustedes/ellos/ellas": "vendían"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "venderé",
+        "tu": "venderás",
+        "usted/el/ella": "venderá",
+        "nosotros": "venderemos",
+        "vosotros": "venderéis",
+        "ustedes/ellos/ellas": "venderán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "venda",
+        "tu": "vendas",
+        "usted/el/ella": "venda",
+        "nosotros": "vendamos",
+        "vosotros": "vendáis",
+        "ustedes/ellos/ellas": "vendan"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "vendiera",
+        "tu": "vendieras",
+        "usted/el/ella": "vendiera",
+        "nosotros": "vendiéramos",
+        "vosotros": "vendierais",
+        "ustedes/ellos/ellas": "vendieran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "vendería",
+        "tu": "venderías",
+        "usted/el/ella": "vendería",
+        "nosotros": "venderíamos",
+        "vosotros": "venderíais",
+        "ustedes/ellos/ellas": "venderían"
       }
     }
   },
@@ -2406,36 +2406,36 @@
         "ustedes/ellos/ellas": "veían"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "veré",
+        "tu": "verás",
+        "usted/el/ella": "verá",
+        "nosotros": "veremos",
+        "vosotros": "veréis",
+        "ustedes/ellos/ellas": "verán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "vea",
+        "tu": "veas",
+        "usted/el/ella": "vea",
+        "nosotros": "veamos",
+        "vosotros": "veáis",
+        "ustedes/ellos/ellas": "vean"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "viera",
+        "tu": "vieras",
+        "usted/el/ella": "viera",
+        "nosotros": "viéramos",
+        "vosotros": "vierais",
+        "ustedes/ellos/ellas": "vieran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "vería",
+        "tu": "verías",
+        "usted/el/ella": "vería",
+        "nosotros": "veríamos",
+        "vosotros": "veríais",
+        "ustedes/ellos/ellas": "verían"
       }
     }
   },
@@ -2467,36 +2467,36 @@
         "ustedes/ellos/ellas": "viajaban"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "viajaré",
+        "tu": "viajarás",
+        "usted/el/ella": "viajará",
+        "nosotros": "viajaremos",
+        "vosotros": "viajaréis",
+        "ustedes/ellos/ellas": "viajarán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "viaje",
+        "tu": "viajes",
+        "usted/el/ella": "viaje",
+        "nosotros": "viajemos",
+        "vosotros": "viajéis",
+        "ustedes/ellos/ellas": "viajen"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "viajara",
+        "tu": "viajaras",
+        "usted/el/ella": "viajara",
+        "nosotros": "viajáramos",
+        "vosotros": "viajarais",
+        "ustedes/ellos/ellas": "viajaran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "viajaría",
+        "tu": "viajarías",
+        "usted/el/ella": "viajaría",
+        "nosotros": "viajaríamos",
+        "vosotros": "viajaríais",
+        "ustedes/ellos/ellas": "viajarían"
       }
     }
   },
@@ -2528,36 +2528,36 @@
         "ustedes/ellos/ellas": "vivían"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "viviré",
+        "tu": "vivirás",
+        "usted/el/ella": "vivirá",
+        "nosotros": "viviremos",
+        "vosotros": "viviréis",
+        "ustedes/ellos/ellas": "vivirán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "viva",
+        "tu": "vivas",
+        "usted/el/ella": "viva",
+        "nosotros": "vivamos",
+        "vosotros": "viváis",
+        "ustedes/ellos/ellas": "vivan"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "viviera",
+        "tu": "vivieras",
+        "usted/el/ella": "viviera",
+        "nosotros": "vivéramos",
+        "vosotros": "vivierais",
+        "ustedes/ellos/ellas": "vivieran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "viviría",
+        "tu": "vivirías",
+        "usted/el/ella": "viviría",
+        "nosotros": "viviríamos",
+        "vosotros": "viviríais",
+        "ustedes/ellos/ellas": "vivirían"
       }
     }
   },
@@ -2589,36 +2589,36 @@
         "ustedes/ellos/ellas": "decían"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "diré",
+        "tu": "dirás",
+        "usted/el/ella": "dirá",
+        "nosotros": "diremos",
+        "vosotros": "diréis",
+        "ustedes/ellos/ellas": "dirán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "diga",
+        "tu": "digas",
+        "usted/el/ella": "diga",
+        "nosotros": "digamos",
+        "vosotros": "digáis",
+        "ustedes/ellos/ellas": "digan"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "dijera",
+        "tu": "dijeras",
+        "usted/el/ella": "dijera",
+        "nosotros": "dijéramos",
+        "vosotros": "dijerais",
+        "ustedes/ellos/ellas": "dijeran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "diría",
+        "tu": "dirías",
+        "usted/el/ella": "diría",
+        "nosotros": "diríamos",
+        "vosotros": "diríais",
+        "ustedes/ellos/ellas": "dirían"
       }
     }
   },
@@ -2650,36 +2650,36 @@
         "ustedes/ellos/ellas": "estaban"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "estaré",
+        "tu": "estarás",
+        "usted/el/ella": "estará",
+        "nosotros": "estaremos",
+        "vosotros": "estaréis",
+        "ustedes/ellos/ellas": "estarán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "esté",
+        "tu": "estés",
+        "usted/el/ella": "esté",
+        "nosotros": "estemos",
+        "vosotros": "estéis",
+        "ustedes/ellos/ellas": "estén"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "estuviera",
+        "tu": "estuvieras",
+        "usted/el/ella": "estuviera",
+        "nosotros": "estuviéramos",
+        "vosotros": "estuvierais",
+        "ustedes/ellos/ellas": "estuvieran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "estaría",
+        "tu": "estarías",
+        "usted/el/ella": "estaría",
+        "nosotros": "estaríamos",
+        "vosotros": "estaríais",
+        "ustedes/ellos/ellas": "estarían"
       }
     }
   },
@@ -2711,36 +2711,36 @@
         "ustedes/ellos/ellas": "habían"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "hablaré",
+        "tu": "hablarás",
+        "usted/el/ella": "hablará",
+        "nosotros": "hablaremos",
+        "vosotros": "hablaréis",
+        "ustedes/ellos/ellas": "hablarán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "hable",
+        "tu": "hables",
+        "usted/el/ella": "hable",
+        "nosotros": "hablemos",
+        "vosotros": "habléis",
+        "ustedes/ellos/ellas": "hablen"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "hablara",
+        "tu": "hablaras",
+        "usted/el/ella": "hablara",
+        "nosotros": "habláramos",
+        "vosotros": "hablarais",
+        "ustedes/ellos/ellas": "hablaran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "hablaría",
+        "tu": "hablarías",
+        "usted/el/ella": "hablaría",
+        "nosotros": "hablaríamos",
+        "vosotros": "hablaríais",
+        "ustedes/ellos/ellas": "hablarían"
       }
     }
   }, 
@@ -2772,36 +2772,36 @@
         "ustedes/ellos/ellas": "hacían"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "haré",
+        "tu": "harás",
+        "usted/el/ella": "hará",
+        "nosotros": "haremos",
+        "vosotros": "haréis",
+        "ustedes/ellos/ellas": "harán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "haga",
+        "tu": "hagas",
+        "usted/el/ella": "haga",
+        "nosotros": "hagamos",
+        "vosotros": "hagáis",
+        "ustedes/ellos/ellas": "hagan"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "hiciera",
+        "tu": "hicieras",
+        "usted/el/ella": "hiciera",
+        "nosotros": "hiciéramos",
+        "vosotros": "hicierais",
+        "ustedes/ellos/ellas": "hicieran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "haría",
+        "tu": "harías",
+        "usted/el/ella": "haría",
+        "nosotros": "haríamos",
+        "vosotros": "haríais",
+        "ustedes/ellos/ellas": "harían"
       }
     }
   },
@@ -2833,36 +2833,36 @@
         "ustedes/ellos/ellas": "iban"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "iré",
+        "tu": "irás",
+        "usted/el/ella": "irá",
+        "nosotros": "iremos",
+        "vosotros": "iréis",
+        "ustedes/ellos/ellas": "irán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "vaya",
+        "tu": "vayas",
+        "usted/el/ella": "vaya",
+        "nosotros": "vayamos",
+        "vosotros": "vayáis",
+        "ustedes/ellos/ellas": "vayan"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "fuera",
+        "tu": "fueras",
+        "usted/el/ella": "fuera",
+        "nosotros": "fuéramos",
+        "vosotros": "fuerais",
+        "ustedes/ellos/ellas": "fueran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "iría",
+        "tu": "irías",
+        "usted/el/ella": "iría",
+        "nosotros": "iríamos",
+        "vosotros": "iríais",
+        "ustedes/ellos/ellas": "irían"
       }
     }
   },
@@ -2894,36 +2894,36 @@
         "ustedes/ellos/ellas": "podían"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "podré",
+        "tu": "podrás",
+        "usted/el/ella": "podrá",
+        "nosotros": "podremos",
+        "vosotros": "podréis",
+        "ustedes/ellos/ellas": "podrán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "pueda",
+        "tu": "puedas",
+        "usted/el/ella": "pueda",
+        "nosotros": "podamos",
+        "vosotros": "podáis",
+        "ustedes/ellos/ellas": "puedan"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "pudiera",
+        "tu": "pudieras",
+        "usted/el/ella": "pudiera",
+        "nosotros": "pudiéramos",
+        "vosotros": "pudierais",
+        "ustedes/ellos/ellas": "pudieran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "podría",
+        "tu": "podrías",
+        "usted/el/ella": "podría",
+        "nosotros": "podríamos",
+        "vosotros": "podríais",
+        "ustedes/ellos/ellas": "podrían"
       }
     }
   },
@@ -2955,36 +2955,36 @@
         "ustedes/ellos/ellas": "ponían"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "pondré",
+        "tu": "pondrás",
+        "usted/el/ella": "pondrá",
+        "nosotros": "pondremos",
+        "vosotros": "pondréis",
+        "ustedes/ellos/ellas": "pondrán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "ponga",
+        "tu": "pongas",
+        "usted/el/ella": "ponga",
+        "nosotros": "pongamos",
+        "vosotros": "pongáis",
+        "ustedes/ellos/ellas": "pongan"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "pusiera",
+        "tu": "pusieras",
+        "usted/el/ella": "pusiera",
+        "nosotros": "pusiéramos",
+        "vosotros": "pusierais",
+        "ustedes/ellos/ellas": "pusieran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "pondría",
+        "tu": "pondrías",
+        "usted/el/ella": "pondría",
+        "nosotros": "pondríamos",
+        "vosotros": "pondríais",
+        "ustedes/ellos/ellas": "pondrían"
       }
     }
   },
@@ -3016,36 +3016,36 @@
         "ustedes/ellos/ellas": "eran"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "seré",
+        "tu": "serás",
+        "usted/el/ella": "será",
+        "nosotros": "seremos",
+        "vosotros": "seréis",
+        "ustedes/ellos/ellas": "serán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "sea",
+        "tu": "seas",
+        "usted/el/ella": "sea",
+        "nosotros": "seamos",
+        "vosotros": "seáis",
+        "ustedes/ellos/ellas": "sean"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "fuera",
+        "tu": "fueras",
+        "usted/el/ella": "fuera",
+        "nosotros": "fuéramos",
+        "vosotros": "fuerais",
+        "ustedes/ellos/ellas": "fueran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "sería",
+        "tu": "serías",
+        "usted/el/ella": "sería",
+        "nosotros": "seríamos",
+        "vosotros": "seríais",
+        "ustedes/ellos/ellas": "serían"
       }
     }
   },
@@ -3077,36 +3077,36 @@
         "ustedes/ellos/ellas": "tenían"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "tendré",
+        "tu": "tendrás",
+        "usted/el/ella": "tendrá",
+        "nosotros": "tendremos",
+        "vosotros": "tendréis",
+        "ustedes/ellos/ellas": "tendrán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "tenga",
+        "tu": "tengas",
+        "usted/el/ella": "tenga",
+        "nosotros": "tengamos",
+        "vosotros": "tengáis",
+        "ustedes/ellos/ellas": "tengan"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "tuviera",
+        "tu": "tuvieras",
+        "usted/el/ella": "tuviera",
+        "nosotros": "tuviéramos",
+        "vosotros": "tuvierais",
+        "ustedes/ellos/ellas": "tuvieran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "tendría",
+        "tu": "tendrías",
+        "usted/el/ella": "tendría",
+        "nosotros": "tendríamos",
+        "vosotros": "tendríais",
+        "ustedes/ellos/ellas": "tendrían"
       }
     }
   },
@@ -3138,36 +3138,36 @@
         "ustedes/ellos/ellas": "venían"
       },
        "future": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "vendré",
+        "tu": "vendrás",
+        "usted/el/ella": "vendrá",
+        "nosotros": "vendremos",
+        "vosotros": "vendréis",
+        "ustedes/ellos/ellas": "vendrán"
       },
-       "present_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_present": {
+        "yo": "venga",
+        "tu": "vengas",
+        "usted/el/ella": "venga",
+        "nosotros": "vengamos",
+        "vosotros": "vengáis",
+        "ustedes/ellos/ellas": "vengan"
       },
-       "imperfect_subjunctive": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+       "subjunctive_imperfect": {
+        "yo": "viniera",
+        "tu": "vinieras",
+        "usted/el/ella": "viniera",
+        "nosotros": "viniéramos",
+        "vosotros": "vinierais",
+        "ustedes/ellos/ellas": "vinieran"
       },
         "conditional": {
-        "yo": "",
-        "tu": "",
-        "usted/el/ella": "",
-        "nosotros": "",
-        "vosotros": "",
-        "ustedes/ellos/ellas": ""
+        "yo": "vendría",
+        "tu": "vendrías",
+        "usted/el/ella": "vendría",
+        "nosotros": "vendríamos",
+        "vosotros": "vendríais",
+        "ustedes/ellos/ellas": "vendrían"
       }
     }
   }

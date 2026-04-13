@@ -82,19 +82,27 @@ class TenseScreen(Screen):
 
     @on(Button.Pressed, "#future-tense")
     def select_future_tense(self):
-        self.exit()  # PLACEHOLDER
+        global current_tense
+        current_tense = "future"
+        self.app.push_screen("verb_screen")
 
     @on(Button.Pressed, "#present-subjunctive-tense")
     def select_present_subjunctive_tense(self):
-        self.exit()  # PLACEHOLDER
+        global current_tense
+        current_tense = "subjunctive_present"
+        self.app.push_screen("verb_screen")
 
     @on(Button.Pressed, "#imperfect-subjunctive-tense")
     def select_imperfect_subjunctive_tense(self):
-        self.exit()  # PLACEHOLDER
+        global current_tense
+        current_tense = "subjunctive_imperfect"
+        self.app.push_screen("verb_screen")
 
-    @on(Button.Pressed, "#conditional-tense-tense")
+    @on(Button.Pressed, "#conditional-tense")
     def select_conditional_tense(self):
-        self.exit()  # PLACEHOLDER
+        global current_tense
+        current_tense = "conditional"
+        self.app.push_screen("verb_screen")
 
 
 class VerbSelectorScreen(Screen):
@@ -146,7 +154,6 @@ class MainScreen(Screen):  # Screen for the main game loop
     main_total_answered = 0
     main_string = reactive(f'[{main_total_correct}/{main_total_answered}]')
     main_temp_string = reactive("")
-
 
     def compose(self) -> ComposeResult:
         yield Header("Spaleoff")

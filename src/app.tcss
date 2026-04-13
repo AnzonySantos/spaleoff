@@ -8,6 +8,9 @@ $white:     #e9f6e1
 Header{
     background: $blurple
 }
+Rule{
+    color: $blurple;
+}
 
 /* Make sure to delete and apply only to the accent color box*/
 Horizontal {
@@ -58,30 +61,51 @@ Horizontal {
     color: $black;
 
 }
+#segment_1{
+    margin: 1 0;
+    .verb-selector-card{
+        height: 3;
+        color: $blurple;
+        border: heavy white;
 
-.verb-selector-card{
-    height: 3;
-    color: $blurple;
+        Button.fake-label{
+            content-align: left middle;
+            padding: 0 4;
+
+            border: none;
+            background: transparent;
+
+            color: $blurple;
+        }
+        Button.fake-label:hover{
+            text-style: underline;
+        }
+        Button.fake-label:focus{
+            background: transparent;
+            text-style: bold;
+        }
+        Button.fake-label.-active{
+            background: transparent;
+        }
+    }
+}
+
+#segment_2{
+    height: 4;
     border: heavy white;
-
-    Button.fake-label{
-        content-align: left middle;
-        padding: 0 4;
-
-        border: none;
-        background: transparent;
-
+    Label{
+        text-style: bold;
         color: $blurple;
     }
-    Button.fake-label:hover{
-        text-style: underline;
+    Button{
+        height: 1;
+        width: 20;
+        background: $blurple;
+        border: none;
     }
-    Button.fake-label:focus{
-        background: transparent;
+    Button:focus{
+        background: $blurple;
         text-style: bold;
-    }
-    Button.fake-label.-active{
-        background: transparent;
     }
 }
 

@@ -5,12 +5,15 @@ TUI for application
 """
 from textual.app import App, ComposeResult
 from textual.screen import Screen
-from textual.widgets import Input, Static, Label, Header, Button
+from textual.widgets import Input, Static, Label, Header, Button, Rule, SelectionList
 from textual.containers import Vertical, Horizontal
 from textual import events, on
 from textual.reactive import reactive
 
 import verb_utils
+import verb_filters
+
+# TODO: Fix bug where a random word that is not in a set is a part of that set say conditional irregular and a random word like trabajar will show up when it should not be apart of the list
 
 """ Global Variables """
 all_verbs: list = []
@@ -121,29 +124,82 @@ class VerbSelectorScreen(Screen):
                 yield Button("Topic: Learning", classes="fake-label", id="learning-verbs")
             with Vertical(classes="verb-selector-card"):
                 yield Button("Topic: Traveling", classes="fake-label", id="traveling-verbs")
+        yield Rule()
+        with Vertical(id="segment_2"):
+            yield Label("Get a random selection of ten verbs")
+            yield Button("Random Selection!", id="random-button")
+        yield Rule()
 
     def on_mount(self) -> None:
         self.screen.styles.background = "#e8dcad"
 
     @on(Button.Pressed, "#basic-verbs")
     def select_basic_verbs(self):
+        global all_verbs
+        global current_verbs
+        current_verbs = verb_filters.basic_verbs(all_verbs)
+        print(current_verbs)
+
         self.app.push_screen("main_screen")
 
     @on(Button.Pressed, "#regular-verbs")
     def select_regular_verbs(self):
-        self.exit()
+        global all_verbs
+        global current_verbs
+        current_verbs = verb_filters.basic_verbs(all_verbs)
+        print(current_verbs)
 
+        self.app.push_screen("main_screen")
+
+    ## TODO: Update to select the correct verb dependent on the selected tense
     @on(Button.Pressed, "#irregular-verbs")
     def select_irregular_verbs(self):
-        self.exit()
+        global all_verbs
+        global current_verbs
+        if (current_tense == "present"):
+            current_verbs = verb_filters.present_irregular_verbs(all_verbs)
+        if (current_tense == "preterite"):
+            current_verbs = verb_filters.preterite_irregular_verbs(all_verbs)
+        if (current_tense == "imperfect"):
+            current_verbs = verb_filters.imperfect_irregular_verbs(all_verbs)
+        if (current_tense == "future"):
+            current_verbs = verb_filters.future_irregular_verbs(all_verbs)
+        if (current_tense == "subjunctive_present"):
+            current_verbs = verb_filters.subjunctive_present_irregular_verbs(all_verbs)
+        if (current_tense == "subjunctive_imperfect"):
+            current_verbs = verb_filters.subjunctive_imperfect_irregular_verbs(all_verbs)
+        if (current_tense == "conditional"):
+            current_verbs = verb_filters.conditional_irregular_verbs(all_verbs)
+
+        print(current_verbs)
+        self.app.push_screen("main_screen")
 
     @on(Button.Pressed, "#traveling-verbs")
     def select_traveling_verbs(self):
-        self.exit()
+        global all_verbs
+        global current_verbs
+        current_verbs = verb_filters.traveling_verbs(all_verbs)
+        print(current_verbs)
+
+        self.app.push_screen("main_screen")
 
     @on(Button.Pressed, "#learning-verbs")
     def select_learning_verbs(self):
-        self.exit()
+        global all_verbs
+        global current_verbs
+        current_verbs = verb_filters.learning_verbs(all_verbs)
+        print(current_verbs)
+
+        self.app.push_screen("main_screen")
+
+    @on(Button.Pressed, "#random-button")
+    def select_random_verbs(self):
+        global all_verbs
+        global current_verbs
+        current_verbs = verb_filters.random_verbs(all_verbs)
+        print(all_verbs)
+
+        self.app.push_screen("main_screen")
 
 
 class MainScreen(Screen):  # Screen for the main game loop
@@ -181,19 +237,21 @@ class MainScreen(Screen):  # Screen for the main game loop
         # self.main_temp_string = event.value
         self.main_total_answered += 1
 
-        global all_verbs
+        global current_verbs
         global current_tense
 
         global current_verb
         global current_form
         global current_answer
 
-        temp_triple_tuple = verb_utils.update_verb_attributes(all_verbs, current_tense)
+        temp_triple_tuple = verb_utils.update_verb_attributes(current_verbs, current_tense)
         current_verb, (current_form, current_answer) = temp_triple_tuple
 
         self.main_verb = current_verb
         self.main_form = current_form
+        print(current_answer)
         self.main_answer = current_answer
+        print(current_answer)
         self.main_string = f'[{self.main_total_correct}/{self.main_total_answered}]'
 
         self.query_one("#verb-label").update(self.main_verb["infinitive"])
@@ -201,20 +259,20 @@ class MainScreen(Screen):  # Screen for the main game loop
         self.query_one("#counter").update(self.main_string)
         # self.query_one("#temp-id").update(self.main_temp_string)
         print("Presed Enter")
-        
+
         event.input.clear()
 
     def on_mount(self) -> None:
         self.screen.styles.background = "#e8dcad"
 
-        global all_verbs
+        global current_verbs
         global current_tense
 
         global current_verb
         global current_form
         global current_answer
 
-        temp_triple_tuple = verb_utils.update_verb_attributes(all_verbs, current_tense)
+        temp_triple_tuple = verb_utils.update_verb_attributes(current_verbs, current_tense)
         current_verb, (current_form, current_answer) = temp_triple_tuple
 
         self.main_verb = current_verb

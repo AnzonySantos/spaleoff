@@ -4,7 +4,7 @@ April 13, 2026
 Test for filtering verbs
 """
 import verb_utils
-
+import random
 
 def basic_verbs(verbs: list) -> list:
     new_verb_list: list = []
@@ -256,12 +256,20 @@ def conditional_irregular_verbs(verbs: list) -> list:
     return new_verb_list
 
 
+def random_verbs(verbs: list) -> list:
+    new_verb_list: list = []
+    for i in range(10):
+        new_verb_list.append(verbs[random.randint(0, len(verbs) - 1)])
+    return new_verb_list
+
+
 if __name__ == "__main__":
     all_verbs: list = verb_utils.get_verbs()
     basic_verb_list = basic_verbs(all_verbs)
     regular_verb_list = regular_verbs(all_verbs)
     learning_verb_list = learning_verbs(all_verbs)
     traveling_verb_list = traveling_verbs(all_verbs)
+    random_verb_list = random_verbs(all_verbs)
 
     print("---------------------")
     for entry in basic_verb_list:
@@ -275,5 +283,10 @@ if __name__ == "__main__":
         print(entry["conjugations"]["conditional"])
     print("---------------------")
     for entry in traveling_verb_list:
+        print(entry["infinitive"])
+    print("---------------------")
+
+    print("---------------------")
+    for entry in random_verb_list:
         print(entry["infinitive"])
     print("---------------------")

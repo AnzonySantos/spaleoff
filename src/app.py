@@ -146,7 +146,7 @@ class VerbSelectorScreen(Screen):
     def select_regular_verbs(self):
         global all_verbs
         global current_verbs
-        current_verbs = verb_filters.basic_verbs(all_verbs)
+        current_verbs = verb_filters.regular_verbs(all_verbs)
         print(current_verbs)
 
         self.app.push_screen("main_screen")
@@ -223,12 +223,42 @@ class MainScreen(Screen):  # Screen for the main game loop
             with Vertical(classes="column", id="column_3"):
                 yield Label("Translation")
                 with Horizontal(id="accent-box"):
-                    yield Button("á", classes="accent-letters")
-                    yield Button("é", classes="accent-letters")
-                    yield Button("í", classes="accent-letters")
-                    yield Button("ó", classes="accent-letters")
-                    yield Button("ú", classes="accent-letters")
+                    yield Button("á", id="a", classes="accent-letters")
+                    yield Button("é", id="e", classes="accent-letters")
+                    yield Button("í", id="i", classes="accent-letters")
+                    yield Button("ó", id="o", classes="accent-letters")
+                    yield Button("ú", id="u", classes="accent-letters")
                 yield Label(self.main_string, id="counter")
+
+    @on(Button.Pressed, "#a")
+    def add_a(self):
+        temp = self.query_one("#conjugation-input").value
+        temp += "á"
+        self.query_one("#conjugation-input").value = temp
+
+    @on(Button.Pressed, "#e")
+    def add_e(self):
+        temp = self.query_one("#conjugation-input").value
+        temp += "é"
+        self.query_one("#conjugation-input").value = temp
+
+    @on(Button.Pressed, "#i")
+    def add_i(self):
+        temp = self.query_one("#conjugation-input").value
+        temp += "í"
+        self.query_one("#conjugation-input").value = temp
+
+    @on(Button.Pressed, "#o")
+    def add_o(self):
+        temp = self.query_one("#conjugation-input").value
+        temp += "ó"
+        self.query_one("#conjugation-input").value = temp
+
+    @on(Button.Pressed, "#u")
+    def add_u(self):
+        temp = self.query_one("#conjugation-input").value
+        temp += "ú"
+        self.query_one("#conjugation-input").value = temp  
 
     @on(Input.Submitted, "#conjugation-input")
     def handle_submission(self, event):
